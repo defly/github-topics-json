@@ -1,0 +1,3573 @@
+[
+  {
+    "aliases": [
+      "3d-printing",
+      "3d-graphics",
+      "3d-models"
+    ],
+    "display_name": "3D",
+    "short_description": "3D modeling is the process of virtually developing the surface and structure of a 3D object.",
+    "topic": "3d",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/3D_modeling",
+    "description": "3D modeling uses specialized software to create a digital model of a physical object. It is an aspect of 3D computer graphics, used for video games, 3D printing, and VR, among other applications."
+  },
+  {
+    "display_name": "ActivityPub",
+    "github_url": "https://github.com/w3c/activitypub",
+    "logo": "activitypub.png",
+    "related": [
+      "api",
+      "decentralized",
+      "federated",
+      "protocol",
+      "social-network",
+      "w3c"
+    ],
+    "short_description": "ActivityPub is an open, decentralized social networking protocol.",
+    "topic": "activitypub",
+    "url": "https://activitypub.rocks/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/ActivityPub",
+    "description": "ActivityPub is a decentralized social networking protocol standardized by the World Wide Web Consortium (W3C). It includes both an API for social networking clients and an API for server-server federation."
+  },
+  {
+    "display_name": "Ajax",
+    "short_description": "Ajax is a technique for creating interactive web applications.",
+    "topic": "ajax",
+    "related": [
+      "json",
+      "html",
+      "xml",
+      "javascript"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ajax_(programming)",
+    "description": "Ajax stands for asynchronous JavaScript and XML. It is collection of several web technologies including HTML, CSS, JSON, XML, and JavaScript. It is used for creating dynamic web pages in which small parts of web page change without reloading the page."
+  },
+  {
+    "aliases": [
+      "algoliasearch",
+      "algolia-search"
+    ],
+    "related": [
+      "instantsearch",
+      "instant-search"
+    ],
+    "created_by": "Nicolas Dessaigne, Julien Lemoine",
+    "display_name": "Algolia",
+    "github_url": "https://github.com/algolia/",
+    "logo": "algolia.png",
+    "released": "October 23, 2012",
+    "short_description": "Algolia is a hosted search API for web and mobile applications.",
+    "topic": "algolia",
+    "url": "https://www.algolia.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Algolia",
+    "description": "Algolia is a hosted API for building search into web and mobile applications, with typo-tolerance, fully configurable relevance, and other tools for making great search experiences."
+  },
+  {
+    "aliases": [
+      "algorithms"
+    ],
+    "display_name": "Algorithm",
+    "short_description": "Algorithms are self-contained sequences that carry out a variety of tasks.",
+    "topic": "algorithm",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Algorithm",
+    "description": "Algorithms are detailed sets of guidelines created for a computer program to complete tasks efficiently and thoroughly."
+  },
+  {
+    "related": [
+      "php"
+    ],
+    "created_by": "Daniel Lowrey",
+    "display_name": "Amp",
+    "github_url": "https://github.com/amphp",
+    "logo": "amphp.png",
+    "released": "August 05, 2013",
+    "short_description": "Amp is a non-blocking concurrency framework for PHP.",
+    "topic": "amphp",
+    "url": "https://amphp.org/",
+    "description": "Amp is a non-blocking concurrency framework for PHP. It provides an event loop, promises, and streams as a base for asynchronous programming."
+  },
+  {
+    "aliases": [
+      "android-application",
+      "android-app",
+      "android-development"
+    ],
+    "created_by": "Google",
+    "display_name": "Android",
+    "github_url": "https://github.com/android",
+    "logo": "android.png",
+    "released": "September 23, 2008",
+    "short_description": "Android is an operating system built by Google designed for mobile applications.",
+    "topic": "android",
+    "url": "https://www.android.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Android_(operating_system)",
+    "description": "Android was designed and built by Google in 2008. The operating system is written mainly in Java, with core components in C and C++. It is built on top of the Linux kernel, giving it incorporated security benefits."
+  },
+  {
+    "aliases": [
+      "angularjs",
+      "angular2",
+      "angular4",
+      "angular-2",
+      "angular1"
+    ],
+    "created_by": "Google",
+    "display_name": "Angular",
+    "github_url": "https://github.com/angular/angular",
+    "logo": "angular.png",
+    "related": [
+      "vue",
+      "react"
+    ],
+    "released": "September 14, 2016",
+    "short_description": "Angular is an open source web application platform.",
+    "topic": "angular",
+    "url": "https://angular.io/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Angular_(application_platform)",
+    "description": "Released in 2016, Angular is a rewrite of AngularJS. It focuses on good mobile development, modularity, and improved dependency injection. Angular is designed to comprehensively address a developer's web application workflow."
+  },
+  {
+    "created_by": "Michael DeHaan",
+    "display_name": "Ansible",
+    "github_url": "https://github.com/ansible",
+    "logo": "ansible.png",
+    "released": "February 20, 2012",
+    "short_description": "Ansible is a simple and powerful automation engine.",
+    "topic": "ansible",
+    "url": "https://www.ansible.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ansible_(software)",
+    "description": "Ansible is a simple and powerful automation engine. It is used to help with configuration management, application deployment, and task automation."
+  },
+  {
+    "aliases": [
+      "antlr4",
+      "antlr3"
+    ],
+    "created_by": "Terence Parr",
+    "display_name": "ANTLR",
+    "github_url": "https://github.com/antlr",
+    "logo": "antlr.png",
+    "related": [
+      "grammar",
+      "parser",
+      "parser-generator",
+      "language",
+      "syntax-tree",
+      "ast",
+      "parsing",
+      "tokenize"
+    ],
+    "released": "February 1992",
+    "short_description": "ANTLR takes as input a grammar that specifies a language and generates as output source code for a recognizer for that language.",
+    "topic": "antlr",
+    "url": "http://www.antlr.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/ANTLR",
+    "description": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build and walk parse trees."
+  },
+  {
+    "aliases": [
+      "api-client",
+      "api-wrapper",
+      "api-rest",
+      "api-gateway",
+      "api-server"
+    ],
+    "display_name": "API",
+    "short_description": "An API (Application Programming Interface) is a collection of protocols and subroutines for building software.",
+    "topic": "api",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Application_programming_interface",
+    "description": "An API can be thought of as an instruction manual for communication between multiple software apparatuses. For example, an API may be used for database communication between web applications. By extracting the implementation and relinquishing data into objects, an API simplifies programming."
+  },
+  {
+    "created_by": "Massimo Banzi",
+    "display_name": "Arduino",
+    "github_url": "https://github.com/arduino/",
+    "logo": "arduino.png",
+    "released": "2003",
+    "short_description": "Arduino is an open source hardware and software company and maker community.",
+    "topic": "arduino",
+    "url": "https://www.arduino.cc/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Arduino",
+    "description": "Arduino is an open source hardware and software company and maker community. Arduino started in the early 2000s. Popular with electronic makers, Arduino offers a lot of flexibility through an open source system."
+  },
+  {
+    "aliases": [
+      "asp-net",
+      "aspnet-core"
+    ],
+    "created_by": "Microsoft",
+    "display_name": "ASP.NET",
+    "logo": "aspnet.png",
+    "released": "January 2002",
+    "short_description": "ASP.NET is a web framework for building modern web apps and services.",
+    "topic": "aspnet",
+    "url": "https://asp.net",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/ASP.NET",
+    "description": "ASP.NET is an open source web framework for building modern web apps and services with .NET. ASP.NET creates websites based on HTML5, CSS, and JavaScript that are simple, fast, and can scale to millions of users."
+  },
+  {
+    "aliases": [
+      "atom-package",
+      "atom-packages",
+      "atom-theme",
+      "atom-themes"
+    ],
+    "created_by": "GitHub",
+    "display_name": "Atom",
+    "github_url": "https://github.com/atom",
+    "logo": "atom.png",
+    "released": "February 26, 2014",
+    "short_description": "Atom is a open source text editor built with web technologies.",
+    "topic": "atom",
+    "url": "https://atom.io/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Atom_(text_editor)",
+    "description": "Atom is a modern open source text editor developed by GitHub. It is designed to be approachable out of the box yet highly customizable. Atom is built using web technologies: the look and feel can be customized using CSS and new features can be added with HTML and JavaScript. There are also thousands of community created themes and packages available."
+  },
+  {
+    "aliases": [
+      "identity",
+      "id-as-a-service",
+      "idaas"
+    ],
+    "created_by": "Eugenio Pace and Matías Woloski",
+    "display_name": "Auth0",
+    "github_url": "https://github.com/Auth0",
+    "logo": "auth0.png",
+    "related": [
+      "single-sign-on",
+      "token-based-authentication",
+      "json-web-token",
+      "openid-connect",
+      "oauth",
+      "ws-federation",
+      "saml",
+      "identity-providers",
+      "sdk",
+      "enterprise-integration"
+    ],
+    "released": 2013,
+    "short_description": "Auth0 is an Identity-as-a-Service provider.",
+    "topic": "auth0",
+    "url": "https://auth0.com",
+    "description": "Auth0 is an Identity-as-a-Service (IDaaS) provider. Auth0 provides customers with a Universal Identity Platform for their web, mobile, IoT, and internal applications."
+  },
+  {
+    "display_name": "Awesome Lists",
+    "topic": "awesome",
+    "aliases": [
+      "awesome-lists",
+      "awesome-list"
+    ],
+    "created_by": "Sindre Sorhus and the community",
+    "github_url": "https://github.com/sindresorhus/awesome",
+    "logo": "awesome.png",
+    "released": "July 11, 2014",
+    "short_description": "An awesome list is a list of awesome things curated by the community.",
+    "url": "https://awesome.re/",
+    "description": "An awesome list is a list of awesome things curated by the community. There are awesome lists about everything from [CLI applications](https://github.com/agarrharr/awesome-cli-apps) to [fantasy books](https://github.com/RichardLitt/awesome-fantasy). The [main repository](https://github.com/sindresorhus/awesome) serves as a curated list of awesome lists."
+  },
+  {
+    "display_name": "Amazon Web Services",
+    "topic": "aws",
+    "github_url": "https://github.com/aws",
+    "logo": "aws.png",
+    "related": [
+      "amazon"
+    ],
+    "released": "March 2006",
+    "short_description": "Amazon Web Services provides on-demand cloud computing platforms on a subscription basis.",
+    "url": "https://aws.amazon.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Amazon_Web_Services",
+    "description": "Amazon Web Services is a subsidiary of Amazon.com that provides on-demand cloud computing platforms to individuals, companies, and governments, on a subscription basis."
+  },
+  {
+    "created_by": "Microsoft",
+    "display_name": "Azure",
+    "github_url": "https://github.com/Azure",
+    "logo": "azure.png",
+    "released": "February 1, 2010",
+    "short_description": "Azure is a cloud computing service created by Microsoft.",
+    "topic": "azure",
+    "url": "https://azure.microsoft.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Microsoft_Azure",
+    "description": "Azure is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through a global network of Microsoft-managed data centers."
+  },
+  {
+    "created_by": "Sebastian McKenzie, James Kyle, Henry Zhu, Logan Smyth, Daniel Tschinder",
+    "display_name": "Babel",
+    "github_url": "https://github.com/babel",
+    "logo": "babel.png",
+    "released": "September 28, 2014",
+    "short_description": "Babel is a compiler for writing next generation JavaScript, today.",
+    "topic": "babel",
+    "url": "https://babeljs.io/",
+    "description": "🐠 Babel is a compiler created by [Sebastian McKenzie](https://github.com/kittens) in 2014 to convert ES6 to ES5 (originally called 6to5). It has since become a toolchain that enables developers to write any next generation JavaScript and serves as a testing ground for proposals from [TC39](https://github.com/tc39), the technical committee that specifies [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript). Babel can also convert [JSX syntax](https://facebook.github.io/jsx/) and strip out type annotations from both [Flow](https://flow.org/) and [TypeScript](https://www.typescriptlang.org/). Babel is built out of plugins. Compose your own transformation pipeline using [plugins written by the community](https://www.npmjs.com/browse/keyword/babel-plugin) or [write your own](https://github.com/thejameskyle/babel-handbook)."
+  },
+  {
+    "aliases": [
+      "bash-script"
+    ],
+    "created_by": "Brian Fox",
+    "display_name": "Bash",
+    "github_url": "https://github.com/gitGNU/gnu_bash",
+    "logo": "bash.png",
+    "related": [
+      "shell"
+    ],
+    "released": "June 8, 1989",
+    "short_description": "Bash is a shell and command language interpreter for the GNU operating system.",
+    "topic": "bash",
+    "url": "https://www.gnu.org/software/bash/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bash_(Unix_shell)",
+    "description": "Bash (Bourne Again Shell) is a shell and command language interpreter for the GNU operating system. It is meant to be an improved version of Bourne Shell."
+  },
+  {
+    "aliases": [
+      "bitcoin-wallet",
+      "bitcoins",
+      "bitcoin-payment"
+    ],
+    "created_by": "Satoshi Nakamoto",
+    "display_name": "Bitcoin",
+    "github_url": "https://github.com/bitcoin/bitcoin",
+    "logo": "bitcoin.png",
+    "released": "January 3, 2009",
+    "short_description": "Bitcoin is a cryptocurrency developed by Satoshi Nakamoto.",
+    "topic": "bitcoin",
+    "url": "https://bitcoin.org/en/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bitcoin",
+    "description": "Bitcoin is a cryptocurrency developed by Satoshi Nakamoto in 2009. Bitcoin is used as a digital payment system. Rather than use traditional currency (USD, YEN, EURO, etc.) individuals may trade in, or even mine Bitcoin. It is a peer-to-peer system, and transactions may take place between users directly."
+  },
+  {
+    "created_by": "Satoshi Nakamoto",
+    "display_name": "Blockchain",
+    "released": "2008",
+    "short_description": "Blockchains are distributed ledgers that can record transactions between parties in a verifiable and permanent way.",
+    "topic": "blockchain",
+    "related": [
+      "cryptocurrency",
+      "cryptography",
+      "bitcoin",
+      "ethereum"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Blockchain",
+    "description": "A blockchain is a digitized, decentralized ledger of transactions. Blockchains record a continuously growing list of records, called blocks, which are linked and secured using cryptography."
+  },
+  {
+    "aliases": [
+      "bootstrap3",
+      "bootstrap4",
+      "bootstrap-4"
+    ],
+    "created_by": "Mark Otto, Jacob Thornton",
+    "display_name": "Bootstrap",
+    "github_url": "https://github.com/twbs",
+    "logo": "bootstrap.png",
+    "released": "August 19, 2011",
+    "short_description": "Bootstrap is an HTML, CSS, and JavaScript framework.",
+    "topic": "bootstrap",
+    "url": "http://getbootstrap.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)",
+    "description": "Bootstrap is a popular front-end framework that streamlines website design. It allows for the creation of easy and responsive web layouts."
+  },
+  {
+    "aliases": [
+      "bots"
+    ],
+    "display_name": "Bot",
+    "short_description": "A bot is an application that runs automated tasks over the Internet.",
+    "topic": "bot",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Internet_bot",
+    "description": "A bot is an application that runs automated, usually repetitive tasks over the Internet."
+  },
+  {
+    "aliases": [
+      "c-language"
+    ],
+    "created_by": "Dennis Ritchie",
+    "display_name": "C",
+    "logo": "c.png",
+    "related": [
+      "language"
+    ],
+    "released": "1972",
+    "short_description": "C is a general purpose programming language that first appeared in 1972.",
+    "topic": "c",
+    "url": "http://www.open-std.org/jtc1/sc22/wg14/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/C_(programming_language)",
+    "description": "C is a programming language designed by Dennis Ritchie at Bell Labs. C is very widely used, straightforward, and can be compiled to a number of platforms and operating systems. C is an imperative language, with a small number of keywords and a large number of mathematical operators."
+  },
+  {
+    "aliases": [
+      "google-chrome"
+    ],
+    "related": [
+      "firefox",
+      "safari",
+      "edge",
+      "opera",
+      "chromium",
+      "browser",
+      "chrome-extension"
+    ],
+    "created_by": "Google",
+    "display_name": "Chrome",
+    "github_url": "https://github.com/googlechrome",
+    "logo": "chrome.png",
+    "released": "September 2, 2008",
+    "short_description": "Chrome is a web browser from the tech company Google.",
+    "topic": "chrome",
+    "url": "https://www.google.com/chrome/",
+    "description": "Chrome is the most popular web browser worldwide as of mid-2017, made by the tech company Google. It's available for most operating systems including Windows, macOS, and Linux and on multiple platforms such as the desktop, phones, and tablets.\n\nChrome boasts a minimalistic UI and was the first browser to feature \"tabs\" above the address bar, a convention that was later implemented in other browsers. Other popular features include things such as Incognito mode, tab sandboxing, and a Web Store with extensions and themes.\n\nAlthough Chrome is not open source, the majority of the source code is available under the Chromium moniker."
+  },
+  {
+    "aliases": [
+      "chrome-extensions"
+    ],
+    "created_by": "Google Inc.",
+    "display_name": "Chrome extension",
+    "logo": "chrome-extension.png",
+    "released": "December 8, 2009",
+    "short_description": "Google Chrome Extensions are add-ons that allow users to customize their Chrome web browser.",
+    "topic": "chrome-extension",
+    "url": "https://chrome.google.com/webstore/category/extensions",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Google_Chrome_extension",
+    "description": "Google Chrome Extensions are add-ons that allow users to customize their Chrome web browser. They are downloadable through the Chrome Web Store. Extensions are most often written in HTML, JavaScript, and CSS."
+  },
+  {
+    "aliases": [
+      "commandline-interface"
+    ],
+    "created_by": "Glenda Schroeder",
+    "display_name": "Command line interface",
+    "released": "1965",
+    "short_description": "A CLI, or command-line interface, is a console that helps users issue commands to a program.",
+    "topic": "cli",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Command-line_interface",
+    "description": "Before there were graphical user interfaces, command-line interfaces were used to issue commands to a computer. Programs that handle the user interface are called command language interpreters, often known as a shell. A CLI may give a user more control over the computer and programs they wish to execute."
+  },
+  {
+    "aliases": [
+      "clj"
+    ],
+    "created_by": "Rich Hickey",
+    "display_name": "Clojure",
+    "github_url": "https://github.com/clojure",
+    "logo": "clojure.png",
+    "related": [
+      "clojurescript",
+      "cljs",
+      "language"
+    ],
+    "released": "October 16, 2007",
+    "short_description": "Clojure is a dynamic, general-purpose programming language.",
+    "topic": "clojure",
+    "url": "https://clojure.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Clojure",
+    "description": "Clojure is a functional, dynamic, general-purpose programming language. It provides built-in concurrency support via software transactional memory and asynchronous agents, and offers a rich set of immutable, persistent data structures. Clojure runs on JVM, JavaScript VMs, and Common Language Runtime."
+  },
+  {
+    "aliases": [
+      "quality"
+    ],
+    "display_name": "Code quality",
+    "short_description": "Automate your code review with style, quality, security, and test‑coverage checks when you need them.",
+    "topic": "code-quality",
+    "description": "Automate your code review with style, quality, security, and test‑coverage checks when you need them most. Code quality is intended to keep complexity down and runtime up."
+  },
+  {
+    "aliases": [
+      "review"
+    ],
+    "display_name": "Code review",
+    "short_description": "Ensure your code meets quality standards and ship with confidence.",
+    "topic": "code-review",
+    "related": [
+      "gerrit"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Code_review",
+    "description": "Code review is systematic examination (sometimes referred to as peer review) of computer source code. It is intended to find mistakes overlooked in software development, improving the overall quality of software. Reviews are done in various forms such as pair programming, informal walkthroughs, and formal inspections."
+  },
+  {
+    "display_name": "Compiler",
+    "short_description": "Compilers are software that translate higher-level programming languages to lower-level languages (e.g. machine code).",
+    "topic": "compiler",
+    "related": [
+      "interpreter",
+      "gcc",
+      "fortran"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Compiler",
+    "description": "Compilers are software that translate higher-level (more human readable) programming languages to lower-level languages (e.g. machine code). The processor executes machine code, which indicates when binary high and low signals are required in the arithmetic logic unit of the processor. Examples of compiled languages include BASIC, Fortran, C++, C, and Java."
+  },
+  {
+    "created_by": "Nils Adermann, Jordi Boggiano",
+    "display_name": "Composer",
+    "github_url": "https://github.com/composer",
+    "logo": "composer.png",
+    "related": [
+      "php",
+      "package-manager"
+    ],
+    "released": "March 1, 2012",
+    "short_description": "A tool for dependency management in PHP.",
+    "topic": "composer",
+    "url": "https://getcomposer.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Composer_(software)",
+    "description": "Composer is a tool for dependency management in PHP. It allows you to declare the libraries your project depends on and manage them for you."
+  },
+  {
+    "aliases": [
+      "cms",
+      "headless",
+      "api-first"
+    ],
+    "created_by": "Sascha Konietzke and Paolo Negri",
+    "display_name": "Contentful",
+    "github_url": "https://github.com/contentful",
+    "logo": "contentful.png",
+    "related": [
+      "content-management",
+      "content-delivery",
+      "javascript",
+      "php",
+      "java",
+      "python",
+      "ruby",
+      "dotnet",
+      "ios",
+      "android"
+    ],
+    "released": 2011,
+    "short_description": "Contentful provides a content infrastructure that enables teams to power content in any digital product.",
+    "topic": "contentful",
+    "url": "https://contentful.com",
+    "description": "Contentful is a content infrastructure that is disrupting the legacy CMS market by offering a new way to power content in any digital product – website, app, or device. It's purpose-built to integrate with the modern software stack and software delivery pipelines"
+  },
+  {
+    "aliases": [
+      "ci"
+    ],
+    "display_name": "Continuous integration",
+    "short_description": "Automatically build and test your code as you push it upstream, preventing bugs from being deployed to production.",
+    "topic": "continuous-integration",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Continuous_integration",
+    "description": "Automatically build and test your code as you push it upstream, preventing bugs from being deployed to production. A complementary practice to CI is that before submitting work, each programmer must do a complete build and run (and pass) all unit tests. Integration tests are usually run automatically on a CI server when it detects a new commit."
+  },
+  {
+    "aliases": [
+      "c-plus-plus",
+      "cpp11",
+      "cpp14",
+      "cpp17",
+      "cpp98",
+      "cpps",
+      "cplusplus",
+      "cplusplus-11"
+    ],
+    "created_by": "Bjarne Stroustrup",
+    "display_name": "C++",
+    "logo": "cpp.png",
+    "released": "October 1985",
+    "short_description": "C++ is a general purpose and object-oriented programming language.",
+    "topic": "cpp",
+    "url": "https://isocpp.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/C%2B%2B",
+    "description": "C++ is a popular and widely used mid-level language. It was designed as an extension of the C language."
+  },
+  {
+    "aliases": [
+      "cryptocurrency-symbols",
+      "cryptocurrency-exchanges",
+      "cryptocurrency-list"
+    ],
+    "created_by": "Satoshi Nakamoto",
+    "display_name": "Cryptocurrency",
+    "released": "January 3, 2009",
+    "short_description": "A cryptocurrency is a digital currency that uses cryptography.",
+    "topic": "cryptocurrency",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cryptocurrency",
+    "description": "A cryptocurrency is a digital currency that only has value dependent on those who back it. For security, cryptocurrencies rely on blockchaining: a database organized in such a way that records are kept secure through peer-to-peer networks. Each record is kept within a block, and each block holds a timestamp and link to the block before it. The first cryptocurrency was Bitcoin, implemented in 2009 by Satoshi Nakamoto."
+  },
+  {
+    "aliases": [
+      "crystal-lang",
+      "crystallang",
+      "crystal-language"
+    ],
+    "created_by": "Ary Borenszweig, Juan Wajnerman",
+    "display_name": "Crystal",
+    "github_url": "https://github.com/crystal-lang",
+    "logo": "crystal.png",
+    "released": "June 2011",
+    "short_description": "Crystal is a self-hosted, general purpose programming language.",
+    "topic": "crystal",
+    "url": "https://crystal-lang.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Crystal_(programming_language)",
+    "description": "Crystal is a programming language with friendly syntax, static type checking and modern stdlib. It compiles into efficient, easy-to-distribute native code."
+  },
+  {
+    "aliases": [
+      "c-sharp",
+      "csharp-code",
+      "csharp7",
+      "csharp-core",
+      "csharp6",
+      "csharp-resources"
+    ],
+    "created_by": "Anders Hejlsberg",
+    "display_name": "C#",
+    "logo": "csharp.png",
+    "related": [
+      "language",
+      "dotnet"
+    ],
+    "released": "June 2000",
+    "short_description": "C# (C sharp) is an object-oriented programming language by Microsoft.",
+    "topic": "csharp",
+    "url": "https://docs.microsoft.com/en-us/dotnet/csharp/csharp",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)",
+    "description": "C# is a programming language used for web development. It is a hybrid of C and C++ that functions similar to Java and is meant for Microsoft's .NET framework."
+  },
+  {
+    "aliases": [
+      "css3"
+    ],
+    "created_by": "Håkon Wium, Lie Bert Bos",
+    "display_name": "CSS",
+    "logo": "css.png",
+    "released": "December 17, 1996",
+    "short_description": "Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of views.",
+    "topic": "css",
+    "url": "https://www.w3.org/Style/CSS/Overview.en.html",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Cascading_Style_Sheets",
+    "description": "Cascading Style Sheets (CSS) is a language used most often to style and improve upon the appearance of views. It allows for the separation of presentation and content, and includes the characteristics of layouts, colors and fonts. CSS builds upon HTML to make webpages more interactive and appealing to the user."
+  },
+  {
+    "aliases": [
+      "common-workflow-language",
+      "commonwl"
+    ],
+    "created_by": "Peter Amstutz, John Chilton, Michael R. Crusoe, Nebojša Tijanić, and the CWL Community",
+    "display_name": "Common Workflow Language",
+    "github_url": "https://github.com/common-workflow-language",
+    "logo": "cwl.png",
+    "released": "January 2015",
+    "short_description": "Open standards for declarative descriptions of tools and workflows.",
+    "topic": "cwl",
+    "url": "http://www.commonwl.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Common_Workflow_Language",
+    "description": "CWL documents describe workflows made of command line data analysis tools in a portable, reproducible, and reusable fashion."
+  },
+  {
+    "aliases": [
+      "d2",
+      "dlang",
+      "d-programming",
+      "d-language"
+    ],
+    "created_by": "Walter Bright",
+    "display_name": "D",
+    "github_url": "https://github.com/dlang",
+    "logo": "d.png",
+    "related": [
+      "language",
+      "dmd",
+      "ldc",
+      "gdc",
+      "phobos",
+      "dub"
+    ],
+    "released": "December 2001",
+    "short_description": "The D programming language is an object-oriented, imperative, multi-paradigm system programming language.",
+    "topic": "d",
+    "url": "https://dlang.org",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/D_(programming_language)",
+    "description": "D is a general-purpose programming language with static typing, systems-level access, and C-like syntax."
+  },
+  {
+    "aliases": [
+      "data-structure"
+    ],
+    "display_name": "Data structures",
+    "short_description": "Data structures are a way of organizing and storing data.",
+    "topic": "data-structures",
+    "related": [
+      "algorithm"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Data_structure",
+    "description": "A data structure is a particular way storing and organizing data in a computer for efficient access and modification. Data structures are designed for a specific purpose. Examples include arrays, linked lists, and classes."
+  },
+  {
+    "aliases": [
+      "dataviz"
+    ],
+    "created_by": "Charles Joseph Minard",
+    "display_name": "Data visualization",
+    "short_description": "Data visualization is the graphic representation of data and trends.",
+    "topic": "data-visualization",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Data_visualization",
+    "description": "Data visualization is the visual depiction of data through the use of graphs, plots, and informational graphics. Its practitioners use statistics and data science to convey the meaning behind data in ethical and accurate ways."
+  },
+  {
+    "aliases": [
+      "db",
+      "databases"
+    ],
+    "display_name": "Database",
+    "short_description": "A database is a structured set of data held in a computer, usually a server.",
+    "topic": "database",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Database",
+    "description": "A database is a structured set of data held in a computer, most often a server. Databases use a database management system (DBMS) that interacts with users, similar to a lookup table. Modern databases are designed to allow for creation, querying, updating, and administration of the data it holds."
+  },
+  {
+    "aliases": [
+      "deeplearning",
+      "deep-learning-tutorial",
+      "deep-learning-algorithms",
+      "deep-learning-papers"
+    ],
+    "display_name": "Deep learning",
+    "short_description": "Deep Learning is an artificial neural network composed of many layers.",
+    "topic": "deep-learning",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Deep_learning",
+    "description": "Deep learning is an AI function and subset of machine learning, used for processing large amounts of complex data."
+  },
+  {
+    "aliases": [
+      "dependencies",
+      "dependency-manager"
+    ],
+    "display_name": "Dependency management",
+    "short_description": "Secure and manage your third-party dependencies.",
+    "topic": "dependency-management",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Package_manager",
+    "related": [
+      "package-management"
+    ],
+    "description": "A package manager or package management system is a collection of software tools that automate the process of installing, upgrading, configuring, or removing computer programs for a computer's operating system in a consistent manner."
+  },
+  {
+    "aliases": [
+      "deploy-tool",
+      "deployment-manager"
+    ],
+    "display_name": "Deployment",
+    "short_description": "Streamline your code deployment so you can focus on your product.",
+    "topic": "deployment",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Software_deployment",
+    "description": "The general deployment process consists of several interrelated activities with possible transitions between them. These activities can occur at the producer side or at the consumer side or both."
+  },
+  {
+    "aliases": [
+      "django-framework",
+      "django-application"
+    ],
+    "created_by": "Adrian Holovaty, Simon Willison",
+    "display_name": "Django",
+    "github_url": "https://github.com/django/django",
+    "logo": "django.png",
+    "released": "21 July 2005",
+    "short_description": "Django is a web application framework for Python.",
+    "topic": "django",
+    "url": "https://www.djangoproject.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Django_(web_framework)",
+    "description": "Django is a web application framework for Python. It is designed to prioritize principles of reusability and rapid development."
+  },
+  {
+    "aliases": [
+      "docker-container"
+    ],
+    "created_by": "Solomon Hykes",
+    "display_name": "Docker",
+    "github_url": "https://github.com/docker",
+    "logo": "docker.png",
+    "released": "March 2013",
+    "short_description": "Docker is a platform built for developers to build and run applications.",
+    "topic": "docker",
+    "url": "https://www.docker.com",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Docker_(software)",
+    "description": "Docker is software that provides containers, which allows teams to emulate development environments. Docker began as an internal project, initially developed by dotCloud engineers."
+  },
+  {
+    "aliases": [
+      "docs",
+      "documentations",
+      "documentation-generator"
+    ],
+    "display_name": "Documentation",
+    "short_description": "Documentation is a set of information that describes a product to its users.",
+    "topic": "documentation",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Software_documentation",
+    "description": "Documentation is a set of information that describes a product to its users, including what it is, how it operates, and how to use it."
+  },
+  {
+    "aliases": [
+      "dotnet-core",
+      "dotnetcore",
+      "dot-net"
+    ],
+    "created_by": "Microsoft",
+    "display_name": ".NET",
+    "github_url": "https://github.com/dotnet",
+    "logo": "dotnet.png",
+    "released": "February 13, 2002",
+    "short_description": ".NET is a software framework developed by Microsoft.",
+    "topic": "dotnet",
+    "url": "https://www.microsoft.com/net/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/.NET_Framework",
+    "description": ".NET is a software framework developed by Microsoft in February of 2002 as an infrastructure for building and running applications and services. The purpose of .NET is to make it easier for users to share information between websites. The framework is intended to be utilized for Windows platforms."
+  },
+  {
+    "aliases": [
+      "electronjs"
+    ],
+    "created_by": "GitHub",
+    "display_name": "Electron",
+    "github_url": "https://github.com/electron/electron",
+    "logo": "electron.png",
+    "related": [
+      "electron-app",
+      "electron-application"
+    ],
+    "released": "July 15, 2013",
+    "short_description": "Electron is a framework for building cross-platform desktop applications with web technology.",
+    "topic": "electron",
+    "url": "http://electronjs.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Electron_(software_framework)",
+    "description": "Electron is a desktop application framework developed by GitHub and created by Cheng Zhao. It allows for the development of desktop applications using front- and back-end infrastructure such as HTML, CSS, and JavaScript."
+  },
+  {
+    "created_by": "José Valim",
+    "display_name": "Elixir",
+    "github_url": "https://github.com/elixir-lang",
+    "logo": "elixir.png",
+    "related": [
+      "language",
+      "erlang",
+      "ruby"
+    ],
+    "released": "September 8, 2014",
+    "short_description": "Elixir is a dynamic, functional language designed for building scalable and maintainable applications.",
+    "topic": "elixir",
+    "url": "https://elixir-lang.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Elixir_(programming_language)",
+    "description": "Elixir leverages the Erlang VM, known for running low-latency, distributed and fault-tolerant systems, while also being successfully used in web development, and the embedded software domain."
+  },
+  {
+    "topic": "emacs",
+    "related": [
+      "emacs-lisp",
+      "vim",
+      "spacemacs"
+    ],
+    "display_name": "Emacs",
+    "github_url": "https://github.com/emacs-mirror/emacs",
+    "logo": "emacs.png",
+    "short_description": "Emacs is an extensible, customizable, free text editor and computing environment.",
+    "url": "https://www.gnu.org/software/emacs/emacs.html",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Emacs",
+    "description": "Emacs is an extensible text editor written primarily in Emacs Lisp.  While it excels at editing text, Emacs stretches the boundaries of what 'text' is."
+  },
+  {
+    "aliases": [
+      "emberjs"
+    ],
+    "created_by": "Yehuda Katz",
+    "display_name": "Ember",
+    "github_url": "https://github.com/emberjs",
+    "logo": "ember.png",
+    "released": "December 8, 2011",
+    "short_description": "Ember is a framework for creating web applications.",
+    "topic": "ember",
+    "url": "https://www.emberjs.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ember.js",
+    "description": "Ember is a JavaScript framework based on a MVVM (model-view-view-model) approach to building applications. It is mainly used to build web-based applications, but can also be ported over to build desktop applications."
+  },
+  {
+    "aliases": [
+      "emojis",
+      "emoji-unicode",
+      "emoji-keyboard",
+      "emojipacks"
+    ],
+    "created_by": "Shigetaka Kurita",
+    "display_name": "Emoji",
+    "released": "1999",
+    "short_description": "Emojis are graphic symbols that represent an emotion, object, or concept.",
+    "topic": "emoji",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Emoji",
+    "description": "Emojis are a pictorial language used mainly in electronic messaging to express a variety of emotions, objects or ideas."
+  },
+  {
+    "aliases": [
+      "emulators"
+    ],
+    "display_name": "Emulator",
+    "short_description": "An emulator is any hardware or software that allows one computer to behave like another.",
+    "topic": "emulator",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Emulator",
+    "description": "Emulators allow the host system to emulate the qualities of a client system. For example, a mobile application developer might run an emulated device on their PC in order to test how their application would perform and appear on an actual phone or tablet."
+  },
+  {
+    "aliases": [
+      "es6-javascript",
+      "es6-tutorial"
+    ],
+    "created_by": "Brendan Eich‎, ‎Ecma International",
+    "display_name": "ES6",
+    "github_url": "https://github.com/tc39",
+    "logo": "es6.png",
+    "released": "1997",
+    "short_description": "ECMAScript 6 is the sixth release of the ECMAScript language.",
+    "topic": "es6",
+    "url": "http://www.ecma-international.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/ECMAScript",
+    "description": "ECMAScript is the standardization of script languages, including JavaScript. ECMA stands for the European Computer Manufacturer's Association."
+  },
+  {
+    "created_by": "Nicholas C. Zakas",
+    "display_name": "ESLint",
+    "github_url": "https://github.com/eslint/eslint",
+    "logo": "eslint.png",
+    "aliases": [
+      "eslint-plugin",
+      "eslint-config"
+    ],
+    "related": [
+      "linting",
+      "linter",
+      "javascript"
+    ],
+    "released": "June 2013",
+    "short_description": "The pluggable linting utility for JavaScript and JSX.",
+    "topic": "eslint",
+    "url": "https://eslint.org/",
+    "description": "ESLint is an extensible static-analysis tool for JavaScript and related languages that helps catch errors before they break something in production."
+  },
+  {
+    "created_by": "Vitalik Buterin",
+    "display_name": "Ethereum",
+    "logo": "ethereum.png",
+    "released": "July 30, 2015",
+    "short_description": "Ethereum is a distributed public blockchain network.",
+    "topic": "ethereum",
+    "related": [
+      "blockchain",
+      "cryptocurrency"
+    ],
+    "url": "https://www.ethereum.org/",
+    "github_url": "https://github.com/ethereum",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ethereum",
+    "description": "Ethereum is a decentralized platform that runs contract-based applications without any possibility of downtime, censorship, fraud or third-party interference. Ethereum blockchain focuses on running the code of any decentralized application."
+  },
+  {
+    "aliases": [
+      "expressjs",
+      "express-js"
+    ],
+    "created_by": "TJ Holowaychuk",
+    "display_name": "Express",
+    "github_url": "https://github.com/expressjs",
+    "logo": "express.png",
+    "released": "November 16, 2010",
+    "short_description": "Express is a minimal Node.js framework for web and mobile applications.",
+    "topic": "express",
+    "url": "https://expressjs.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Express.js",
+    "description": "Express.js is a simple Node.js framework for single, multi-page, and hybrid web applications."
+  },
+  {
+    "topic": "f-droid",
+    "aliases": [
+      "fdroid"
+    ],
+    "display_name": "F-Droid",
+    "logo": "f-droid.png",
+    "short_description": "F-Droid is an installable catalogue of FOSS applications for the Android platform.",
+    "url": "https://f-droid.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/F-Droid",
+    "description": "F-Droid is an installable catalogue of FOSS (Free and open source software) applications for the Android platform."
+  },
+  {
+    "created_by": "James Tamplin, Andrew Lee",
+    "display_name": "Firebase",
+    "github_url": "https://github.com/firebase/",
+    "logo": "firebase.png",
+    "released": "April 2012",
+    "short_description": "Firebase is a mobile app development platform that provides data analysis and database web services for developers.",
+    "topic": "firebase",
+    "url": "https://firebase.google.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Firebase",
+    "description": "Firebase is a mobile app development platform that provides data analysis and database web services for developers. Firebase provides developers with an API that enables the integration of online statistical analysis and database communication into their applications."
+  },
+  {
+    "aliases": [
+      "mozilla-firefox"
+    ],
+    "related": [
+      "mozilla",
+      "chrome",
+      "safari",
+      "edge",
+      "opera",
+      "browser",
+      "gecko"
+    ],
+    "created_by": "Mozilla",
+    "display_name": "Firefox",
+    "github_url": "https://github.com/mozilla/gecko-dev",
+    "logo": "firefox.png",
+    "released": "September 23, 2002",
+    "short_description": "Firefox is an open source web browser from Mozilla.",
+    "topic": "firefox",
+    "url": "https://www.mozilla.org/en-US/firefox",
+    "description": "Firefox is a free and open source web browser developed by Mozilla Foundation. First released in 2002 under the name Phoenix. It's available for most operating systems including Windows, macOS, Linux and most phones and tablets."
+  },
+  {
+    "aliases": [
+      "ftc",
+      "first-ftc",
+      "ftc-robot-controller",
+      "ftc-sdk"
+    ],
+    "created_by": "FIRST",
+    "display_name": "FIRST Tech Challenge",
+    "github_url": "https://github.com/ftctechnh",
+    "logo": "first-tech-challenge.png",
+    "short_description": "FIRST Tech Challenge (FTC) is a robotics competition for 7-12th graders where teams compete head-to-head in annual challenges.",
+    "topic": "first-tech-challenge",
+    "url": "https://www.firstinspires.org/robotics/ftc",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/FIRST_Tech_Challenge",
+    "description": "FIRST Tech Challenge (FTC) is a robotics competition for students in grades 7–12 to compete head to head, using a sports model. Teams are responsible for designing, building, and programming their robots in a 10-week build period to compete in an alliance format against other teams."
+  },
+  {
+    "created_by": "Armin Ronacher",
+    "display_name": "Flask",
+    "github_url": "https://github.com/pallets/flask",
+    "logo": "flask.png",
+    "released": "April 1, 2010",
+    "short_description": "Flask is a web framework for Python based on the Werkzeug toolkit.",
+    "topic": "flask",
+    "url": "http://flask.pocoo.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Flask_(web_framework)",
+    "description": "Flask is a web framework for Python, based on the Werkzeug toolkit."
+  },
+  {
+    "aliases": [
+      "fonts",
+      "font-face",
+      "font-size"
+    ],
+    "display_name": "Font",
+    "short_description": "A font is a particular style of typeface for text.",
+    "topic": "font",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Font",
+    "description": "A font is the reference of size, weight, and style of a particular text. The weight of a particular font is the thickness of the character outlines. Size is typically measured in points, which is a vertical measurement of lettering."
+  },
+  {
+    "aliases": [
+      "frameworks"
+    ],
+    "display_name": "Framework",
+    "short_description": "A framework is a reusable set of libraries or classes in software.",
+    "topic": "framework",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Software_framework",
+    "description": "A framework is a reusable set of libraries or classes in software. In an effort to help developers focus their work on higher level tasks, a framework provides a functional solution for lower level elements of coding. While a framework might add more code than is necessary, they also provide a reusable pattern to speed up development."
+  },
+  {
+    "aliases": [
+      "frontend-developer"
+    ],
+    "display_name": "Front end",
+    "short_description": "Front end is the programming and layout that people see and interact with.",
+    "topic": "frontend",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Front-end_web_development",
+    "description": "Front-end development is the process of producing HTML, CSS, and JavaScript for web application visuals and interactions."
+  },
+  {
+    "aliases": [
+      "game-engine-framework",
+      "game-engine-development",
+      "game-engines"
+    ],
+    "display_name": "Game engine",
+    "short_description": "A game engine is a software framework used to develop and create video games.",
+    "topic": "game-engine",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Game_engine",
+    "description": "Game engines are software frameworks for game development. Game engines do the heavy lifting for developers so they can focus on other aspects of game development."
+  },
+  {
+    "aliases": [
+      "github-game-off",
+      "githubgameoff",
+      "gameoff",
+      "ggo12",
+      "ggo13",
+      "ggo14",
+      "ggo15",
+      "ggo16"
+    ],
+    "related": [
+      "global-game-jam",
+      "ludum-dare",
+      "js13kgames"
+    ],
+    "display_name": "Game Off",
+    "short_description": "Game Off is an annual game jam celebrating open source.",
+    "topic": "game-off",
+    "logo": "game-off.png",
+    "url": "https://gameoff.github.com/",
+    "description": "Game Off is a month-long game jam celebrating open source. Each November, game developers are challenged to create a game based on a theme and share it (and the source) with the world."
+  },
+  {
+    "created_by": "Linus Torvalds",
+    "display_name": "Git",
+    "github_url": "https://github.com/git",
+    "logo": "git.png",
+    "released": "April 7, 2005",
+    "short_description": "Git is the most widely used version control system.",
+    "topic": "git",
+    "url": "https://git-scm.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Git",
+    "description": "Git is the most widely used version control system, which allows for the tracking and managing of source code over time. It was designed for collaboration and built to be flexible, secure and efficient."
+  },
+  {
+    "created_by": "GitHub",
+    "display_name": "GitHub API",
+    "related": [
+      "github",
+      "github-client",
+      "github-app",
+      "api",
+      "api-rest",
+      "graphql"
+    ],
+    "short_description": "The GitHub API allows you to build applications that integrate with GitHub.",
+    "topic": "github-api",
+    "description": "The GitHub API provides endpoints for users to consume GitHub data as well as make changes on a user's behalf. The latest version is v4, the GraphQL API. The GitHub GraphQL API v4 represents an architectural and conceptual shift from the GitHub REST API v3 and allows for users to craft queries of the exact data they need."
+  },
+  {
+    "display_name": "Global Game Jam",
+    "created_by": "Susan Gold, and Gorm Lai, and Ian Schreiber",
+    "aliases": [
+      "globalgamejam",
+      "ggj",
+      "ggj2009",
+      "ggj2010",
+      "ggj2011",
+      "ggj2012",
+      "ggj2013",
+      "ggj2014",
+      "ggj2015",
+      "ggj2016",
+      "ggj2017",
+      "ggj2018",
+      "ggj2019",
+      "ggj2020",
+      "ggj2021",
+      "ggj2022",
+      "ggj2023",
+      "ggj2024"
+    ],
+    "related": [
+      "ludum-dare",
+      "js13kgames",
+      "game-off"
+    ],
+    "logo": "global-game-jam.png",
+    "short_description": "The Global Game Jam (GGJ) is the world's largest game jam event taking place around the world at physical locations.",
+    "topic": "global-game-jam",
+    "url": "https://globalgamejam.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Global_Game_Jam",
+    "description": "The Global Game Jam (GGJ) is an annual distributed game jam. Inspired by the Nordic Game Jam, and created by Susan Gold, Ian Schreiber and Gorm Lai, originally developed under the International Game Developers Association Education SIG to bring together the elements of creativity, collaboration and experimentation. At each site, participants gather to develop ideas, form small groups, create new, creative, innovative games, and present them to their peers and the global community, all in a limited time span."
+  },
+  {
+    "aliases": [
+      "golang",
+      "golang-examples"
+    ],
+    "created_by": "Robert Griesemer, Rob Pike, Ken Thompson",
+    "display_name": "Go",
+    "github_url": "https://github.com/golang/go",
+    "logo": "go.png",
+    "related": [
+      "language",
+      "c"
+    ],
+    "released": "November 10, 2009",
+    "short_description": "Go is a programming language built to resemble a simplified version of the C programming language.",
+    "topic": "go",
+    "url": "https://golang.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Go_(programming_language)",
+    "description": "Go is a programming language built to resemble a simplified version of the C programming language. It compiles at the machine level. Go was created at Google in 2007 by Robert Griesemer, Rob Pike, and Ken Thompson."
+  },
+  {
+    "aliases": [
+      "godotengine",
+      "godot-engine",
+      "godot-game-engine",
+      "gdscript"
+    ],
+    "created_by": "Juan Linietsky and Ariel Manzur",
+    "display_name": "Godot",
+    "github_url": "https://github.com/godotengine",
+    "logo": "godot.png",
+    "short_description": "An advanced, multi-platform 2D and 3D open source game engine.",
+    "topic": "godot",
+    "url": "https://godotengine.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Godot_(game_engine)",
+    "description": "Godot Engine is a feature-packed, cross-platform game engine to create 2D and 3D games for major desktop platforms (Linux, macOS, Windows) as well as mobile (Android, iOS), and web-based (HTML5) platforms."
+  },
+  {
+    "display_name": "Google",
+    "github_url": "https://github.com/google",
+    "logo": "google.png",
+    "created_by": "Larry Page, Sergey Brin",
+    "released": "September 4, 1998",
+    "short_description": "Google LLC is an American multinational technology company that specializes in Internet-related services and products.",
+    "topic": "google",
+    "url": "https://www.google.com",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Google",
+    "description": "Google is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware."
+  },
+  {
+    "display_name": "Gradle",
+    "github_url": "https://github.com/gradle/gradle",
+    "logo": "gradle.png",
+    "released": 2007,
+    "short_description": "Gradle is an open-source build tool that helps teams build, automate and deliver better software, faster.",
+    "topic": "gradle",
+    "related": [
+      "kotlin",
+      "android",
+      "java",
+      "android-studio"
+    ],
+    "url": "https://gradle.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gradle",
+    "description": "Gradle is a build tool with a focus on build automation and support for multi-language development. If you are building, testing, publishing, and deploying software on any platform, Gradle offers a flexible model that can support the entire development lifecycle from compiling and packaging code to publishing web sites."
+  },
+  {
+    "aliases": [
+      "graphql-client",
+      "graphql-api",
+      "graphql-schema",
+      "graphql-query",
+      "graphql-server"
+    ],
+    "created_by": "Facebook",
+    "display_name": "GraphQL",
+    "github_url": "https://github.com/graphql",
+    "logo": "graphql.png",
+    "released": 2015,
+    "related": [
+      "api",
+      "rest"
+    ],
+    "short_description": "GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data.",
+    "topic": "graphql",
+    "url": "http://graphql.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/GraphQL",
+    "description": "GraphQL is a data query language developed by Facebook. It provides an alternative to REST and ad-hoc webservice architectures. It allows clients to define the structure of the data required, and exactly the same structure of the data is returned from the server. It is a strongly typed runtime which allows clients to dictate what data is needed."
+  },
+  {
+    "aliases": [
+      "gulpjs",
+      "gulp-js"
+    ],
+    "created_by": "Fractal Innovations and the open source community at GitHub",
+    "display_name": "Gulp",
+    "github_url": "https://github.com/gulpjs",
+    "logo": "gulp.png",
+    "released": "February 9, 2016",
+    "short_description": "Gulp is a toolkit for automating and streamlining web development.",
+    "topic": "gulp",
+    "url": "http://gulpjs.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gulp.js",
+    "description": "Gulp is an open source toolkit built on Node.js and npm. It is used for automating and streamlining repetitive tasks in front-end web development."
+  },
+  {
+    "created_by": "Digital Ocean and GitHub",
+    "display_name": "Hacktoberfest",
+    "logo": "hacktoberfest.png",
+    "released": "October 2014",
+    "short_description": "Hacktoberfest is a month-long celebration of open source software.",
+    "topic": "hacktoberfest",
+    "url": "https://hacktoberfest.digitalocean.com/",
+    "description": "Hacktoberfest is a month-long celebration of open source software. Each October, open source maintainers give new contributors extra attention as they guide developers through their first pull requests on GitHub."
+  },
+  {
+    "display_name": "Haskell",
+    "github_url": "https://github.com/haskell",
+    "logo": "haskell.png",
+    "released": 1990,
+    "short_description": "Haskell is a functional programming language with non-strict semantics, and strong static typing.",
+    "topic": "haskell",
+    "url": "https://www.haskell.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Haskell_(programming_language)",
+    "description": "Haskell is a functional (that is, everything is done with function calls), statically, implicitly typed (types are checked by the compiler, but you don't have to declare them), lazy (nothing is done until it needs to be) language."
+  },
+  {
+    "aliases": [
+      "hx",
+      "hxml"
+    ],
+    "created_by": "Nicolas Cannasse, Haxe Foundation",
+    "display_name": "Haxe",
+    "github_url": "https://github.com/HaxeFoundation",
+    "released": "2005",
+    "short_description": "A metalanguage resembling ECMAScript which can be transpiled into a variety of languages.",
+    "topic": "haxe",
+    "url": "https://haxe.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Haxe",
+    "related": [
+      "javascript",
+      "python",
+      "java",
+      "actionscript",
+      "c-plus-plus",
+      "csharp",
+      "php",
+      "lua"
+    ],
+    "description": "A language resembling ECMAScript much which can be transpiled into ActionScript3, JavaScript, Java, C++, C#, PHP, Python, and Lua."
+  },
+  {
+    "aliases": [
+      "brew"
+    ],
+    "created_by": "Max Howell",
+    "display_name": "Homebrew",
+    "github_url": "https://github.com/Homebrew/brew",
+    "logo": "homebrew.png",
+    "released": 2009,
+    "short_description": "Homebrew is a package manager for macOS.",
+    "topic": "homebrew",
+    "url": "https://brew.sh/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Homebrew_(package_management_software)",
+    "description": "Homebrew is a package manager for Apple's macOS operating system. It simplifies the installation of software and is popular in the Ruby on Rails community."
+  },
+  {
+    "created_by": "Khaos Tian, Nick Farina",
+    "display_name": "Homebridge",
+    "github_url": "https://github.com/nfarina/homebridge",
+    "released": "February 16, 2016",
+    "short_description": "Homebridge is a utility for tying smart home devices together into Apple’s HomeKit framework, controlled by Siri.",
+    "topic": "homebridge",
+    "description": "Homebridge is a lightweight Node.js server that emulates the iOS HomeKit API. Using HomeBridge, Siri can control devices that are not supported through HomeKit."
+  },
+  {
+    "aliases": [
+      "html5"
+    ],
+    "created_by": "Tim Berners-Lee",
+    "display_name": "HTML",
+    "github_url": "https://github.com/w3c/html",
+    "logo": "html.png",
+    "released": "June 1993",
+    "short_description": "HTML is the fundamental markup language for webpages.",
+    "topic": "html",
+    "url": "https://www.w3.org/html/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/HTML",
+    "description": "HTML, or Hypertext Markup Language, was primarily designed to provide a means of creating structured scientific documents. HTML can embed scripting languages such as PHP or JavaScript to affect the behavior and content of web pages. The World Wide Web Consortium (W3C) maintains both the HTML and CSS standards."
+  },
+  {
+    "aliases": [
+      "http2",
+      "https"
+    ],
+    "created_by": "Tim Berners-Lee",
+    "display_name": "HTTP",
+    "released": "1989",
+    "short_description": "HTTP (Hypertext Transfer Protocol) is the standard for communication across the web.",
+    "topic": "http",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol",
+    "description": "HTTP (Hypertext Transfer Protocol) is a request and response protocol used to send a request to a server and receive a response back in the form of a file. HTTP is the basis of data communication for the web. HTTPS is an evolution in HTTP, where the “S” stands for secure socket layer allowing communication in HTTP to be more secure."
+  },
+  {
+    "aliases": [
+      "icon-fonts"
+    ],
+    "display_name": "Icon font",
+    "short_description": "Icon fonts contain glyphs and symbols in place of textual letters.",
+    "topic": "icon-font",
+    "description": "Icon fonts are vector graphics that contain glyphs and symbols instead of letters and numbers. They may be styled with CSS, similar to regular text."
+  },
+  {
+    "aliases": [
+      "ios-app",
+      "ios-swift",
+      "ios10",
+      "ios11"
+    ],
+    "created_by": "Apple Inc.",
+    "display_name": "iOS",
+    "logo": "ios.png",
+    "released": "June 29, 2007",
+    "short_description": "iOS is the operating system for Apple's mobile products.",
+    "topic": "ios",
+    "url": "https://www.apple.com/ios/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/IOS",
+    "description": "iOS is the operating system for all of Apple’s mobile products. The operating system was unveiled at Macworld Conference and Expo in 2007 to support the company’s new venture, the iPhone. Since then, the operating system has grown to incorporate other products, including the iPad and iPod Touch."
+  },
+  {
+    "aliases": [
+      "ipfs-daemon",
+      "ipfs-api",
+      "ipfs-webui",
+      "js-ipfs",
+      "ipfs-protocol",
+      "go-ipfs"
+    ],
+    "created_by": "Juan Benet",
+    "display_name": "IPFS",
+    "logo": "ipfs.png",
+    "released": "May 23, 2014",
+    "short_description": "IPFS is a peer-to-peer protocol for content-addressed sharing of data via a distributed file system.",
+    "github_url": "https://github.com/ipfs/ipfs",
+    "topic": "ipfs",
+    "url": "https://ipfs.io/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/InterPlanetary_File_System",
+    "description": "IPFS (InterPlanetary File System) is a peer-to-peer distributed file system that seeks to connect all computing devices with the same system of files.\n\nIn some ways, IPFS is similar to the World Wide Web, but IPFS could be seen as a single BitTorrent swarm, exchanging objects within one Git repository. In other words, IPFS provides a high-throughput, content-addressed block storage model, with content-addressed hyperlinks. This forms a generalized Merkle directed acyclic graph (DAG).\n\nIPFS combines a distributed hash table, an incentivized block exchange, and a self-certifying namespace. IPFS has no single point of failure, and nodes do not need to trust each other, except for every node they are connected to. Distributed Content Delivery saves bandwidth and prevents distributed denial-of-service (DDoS) attacks, a problem common with HTTP."
+  },
+  {
+    "aliases": [
+      "java-8",
+      "java8"
+    ],
+    "created_by": "James Gosling",
+    "display_name": "Java",
+    "logo": "java.png",
+    "released": "May 23, 1995",
+    "short_description": "Java is an object-oriented programming language used mainly for desktop and mobile applications.",
+    "topic": "java",
+    "url": "https://www.java.com/en/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Java_(software_platform)",
+    "description": "Java was originally developed as an alternative to the C/C++ programming languages. It is now mainly used for building desktop, Android, and web server applications. Java is owned and licensed through Oracle."
+  },
+  {
+    "aliases": [
+      "js"
+    ],
+    "created_by": "Brendan Eich",
+    "display_name": "JavaScript",
+    "logo": "javascript.png",
+    "released": "December 4, 1995",
+    "short_description": "JavaScript is an object-oriented programming language used alongside HTML and CSS to give functionality to web pages.",
+    "topic": "javascript",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/JavaScript",
+    "description": "JavaScript is used to give webpages a more interactive feel. Its event driven nature allows for such features as dropdown menus or video games. JavaScript is executed via the client, rather than server. This allows the browser to respond more quickly to a user’s input."
+  },
+  {
+    "aliases": [
+      "jekyll-theme",
+      "jekyll-site",
+      "jekyll-themes",
+      "jekyll-website"
+    ],
+    "created_by": "Tom Preston-Werner",
+    "display_name": "Jekyll",
+    "github_url": "https://github.com/jekyll",
+    "logo": "jekyll.png",
+    "released": "2008",
+    "short_description": "Jekyll is a simple, blog-aware static site generator.",
+    "topic": "jekyll",
+    "url": "http://jekyllrb.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Jekyll_(software)",
+    "description": "Jekyll is a blog-aware, site generator written in Ruby. It takes raw text files, runs it through a renderer and produces a publishable static website."
+  },
+  {
+    "created_by": "John Resig",
+    "display_name": "jQuery",
+    "github_url": "https://github.com/jquery/jquery",
+    "logo": "jquery.png",
+    "released": "January 2006",
+    "short_description": "jQuery is a lightweight library that simplifies programming with JavaScript.",
+    "topic": "jquery",
+    "url": "https://jquery.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/JQuery",
+    "description": "jQuery is a lightweight library that simplifies programming with JavaScript. It builds on top of browser function and accomplishes programming tasks with fewer lines of code."
+  },
+  {
+    "display_name": "Js13kGames",
+    "created_by": "Andrzej Mazur",
+    "github_url": "https://github.com/js13kGames",
+    "aliases": [
+      "js13k"
+    ],
+    "related": [
+      "global-game-jam",
+      "game-off",
+      "ludum-dare"
+    ],
+    "logo": "js13kgames.png",
+    "short_description": "Js13kGames is a month-long JavaScript coding competition, where entries are limited in file size to 13 kilobytes.",
+    "topic": "js13kgames",
+    "url": "http://js13kgames.com/",
+    "description": "Js13kGames is a month-long JavaScript coding competition for HTML5 Game Developers, where entries are limited in file size to 13 kilobytes."
+  },
+  {
+    "aliases": [
+      "json-api",
+      "jsonapi"
+    ],
+    "created_by": "Douglas Crockford",
+    "display_name": "JSON",
+    "logo": "json.png",
+    "released": "2005",
+    "short_description": "JSON (JavaScript Object Notation) allows for easy interchange of data, often between a program and a database.",
+    "topic": "json",
+    "url": "http://www.json.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/JSON",
+    "description": "JSON (JavaScript Object Notation) is a standard file format that uses text to communicate data objects to array data types. This notation makes it easy for applications to parse and generate files. JSON grew out of the need to have a real-time server-to-web browser communication."
+  },
+  {
+    "aliases": [
+      "julia-language"
+    ],
+    "created_by": "Jeff Bezanson, Stefan Karpinski, Viral B. Shah, Alan Edelman",
+    "display_name": "The Julia Language",
+    "github_url": "https://github.com/JuliaLang",
+    "logo": "julia.png",
+    "related": [
+      "language"
+    ],
+    "released": "February 14, 2012",
+    "short_description": "Julia is a high-level, high-performance dynamic programming language for numerical computing.",
+    "topic": "julia",
+    "url": "https://julialang.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Julia_(programming_language)",
+    "description": "Julia is a high-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science. It provides a sophisticated compiler, distributed parallel execution, numerical accuracy, and an extensive mathematical function library."
+  },
+  {
+    "created_by": "Jupyter Developers",
+    "display_name": "Jupyter Notebook",
+    "github_url": "https://github.com/jupyter/notebook",
+    "logo": "jupyter-notebook.png",
+    "released": "December 2011",
+    "related": [
+      "jupyter"
+    ],
+    "short_description": "Jupyter Notebooks are documents that contain live code, visualizations, and narrative text.",
+    "topic": "jupyter-notebook",
+    "url": "https://jupyter.org/",
+    "description": "The Jupyter Notebook is a language-agnostic HTML notebook application for Project Jupyter. Jupyter notebooks are documents that allow for creating and sharing live code, equations, visualizations, and narrative text together. People use them for data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more."
+  },
+  {
+    "aliases": [
+      "ksp",
+      "kerbal",
+      "kerbal-space",
+      "kerbalspaceprogram"
+    ],
+    "created_by": "Squad",
+    "display_name": "Kerbal Space Program",
+    "logo": "kerbal-space-program.png",
+    "released": "April 27, 2015",
+    "short_description": "Kerbal Space Program is space flight simulation game.",
+    "topic": "kerbal-space-program",
+    "url": "https://kerbalspaceprogram.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kerbal_Space_Program",
+    "description": "Published by Squad, Kerbal Space Program is a game in which players direct a space program. The game features a realistic orbital physics engine, allowing for various real-life orbital maneuvers such as Hohmann transfer orbits and bi-elliptic transfer orbits."
+  },
+  {
+    "aliases": [
+      "koajs",
+      "koa2",
+      "koa-middleware"
+    ],
+    "created_by": "TJ Holowaychuk",
+    "display_name": "Koa",
+    "github_url": "https://github.com/koajs/koa",
+    "logo": "koa.png",
+    "released": "December 19, 2013",
+    "short_description": "Koa is an expressive middleware framework for Node.js servers that uses ES2017 async functions.",
+    "topic": "koa",
+    "url": "http://koajs.com/",
+    "description": "Koa is a new web framework designed by the team behind Express,\nwhich aims to be a smaller, more expressive, and more robust foundation\nfor web applications and APIs. By leveraging async functions, Koa allows you\nto ditch callbacks and greatly increase error-handling. Koa does not bundle any\nmiddleware within its core, and it provides an elegant suite of methods that make\nwriting servers fast and enjoyable."
+  },
+  {
+    "created_by": "JetBrains",
+    "display_name": "Kotlin",
+    "github_url": "https://github.com/JetBrains/kotlin",
+    "logo": "kotlin.png",
+    "released": "February 15, 2016",
+    "short_description": "Kotlin is a statically typed programming language for multiplatform applications.",
+    "topic": "kotlin",
+    "url": "https://kotlinlang.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kotlin_(programming_language)",
+    "description": "Kotlin is a statically typed programming language for modern multiplatform applications. 100% interoperable with Java and Android, it now supports JavaScript and native with LLVM (including iOS). It was developed by JetBrains in 2011, and designed to be a new language for the Java Virtual Machine (JVM) that can compile quickly."
+  },
+  {
+    "created_by": "Joe Beda, Brendan Burns, and Craig McLuckie",
+    "display_name": "Kubernetes",
+    "github_url": "https://github.com/kubernetes/kubernetes",
+    "logo": "kubernetes.png",
+    "related": [
+      "cloud-native",
+      "devops",
+      "containers"
+    ],
+    "released": "July 21, 2015",
+    "short_description": "Kubernetes is an open source system for automating deployment, scaling, and management of containerized applications.",
+    "topic": "kubernetes",
+    "url": "https://kubernetes.io/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Kubernetes",
+    "description": "Kubernetes (commonly referred to as \"K8s\") is an open source system for automating deployment, scaling and management of containerized applications originally designed by Google and donated to the Cloud Native Computing Foundation. It aims to provide a \"platform for automating deployment, scaling, and operations of application containers across clusters of hosts\". It supports a range of container tools, including Docker."
+  },
+  {
+    "aliases": [
+      "laravel4",
+      "laravel5",
+      "laravel54",
+      "laravel55",
+      "laravel-framework"
+    ],
+    "created_by": "Taylor Otwell",
+    "display_name": "Laravel",
+    "github_url": "https://github.com/laravel",
+    "logo": "laravel.png",
+    "related": [
+      "framework",
+      "php"
+    ],
+    "released": "June 2011",
+    "short_description": "Laravel is a PHP framework.",
+    "topic": "laravel",
+    "url": "https://laravel.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Laravel",
+    "description": "Laravel is a popular PHP framework, used for the development of MVC web applications."
+  },
+  {
+    "aliases": [
+      "latex-template",
+      "latex-class",
+      "latex-package",
+      "latex-document",
+      "latex-examples"
+    ],
+    "created_by": "Leslie Lamport",
+    "display_name": "LaTeX",
+    "github_url": "https://github.com/latex3",
+    "logo": "latex.png",
+    "related": [
+      "tex"
+    ],
+    "released": 1985,
+    "short_description": "LaTeX is a document preparation system.",
+    "topic": "latex",
+    "url": "https://www.latex-project.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/LaTeX",
+    "description": "LaTeX is a typesetting system used to create technical and scientific documents. It is an alternative to word processing, with an emphasis on content over appearance."
+  },
+  {
+    "aliases": [
+      "lib",
+      "libraries"
+    ],
+    "display_name": "Library",
+    "short_description": "A library is a collection of resources, often created to make programming a task simpler.",
+    "topic": "library",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Library_(computing)",
+    "description": "A library is a collection of preprogrammed templates that implement a behavior when invoked. Libraries are well-defined and are designed for reuse throughout implementation. For example, a website may have multiple webpages that implement the same navigation bar or text-field, but none of these objects have relation to one another."
+  },
+  {
+    "aliases": [
+      "linux-kernel",
+      "linux-app",
+      "linux-distribution",
+      "linux-desktop"
+    ],
+    "created_by": "Linus Torvalds",
+    "display_name": "Linux",
+    "github_url": "https://github.com/torvalds/linux",
+    "logo": "linux.png",
+    "released": "September 17, 1991",
+    "short_description": "Linux is an open source operating system.",
+    "topic": "linux",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Linux",
+    "description": "Linux is an open source operating system modeled after UNIX. Widely used, it is known for its efficiency and reliability."
+  },
+  {
+    "display_name": "Localization",
+    "short_description": "Translation of a software interface and messages to another language plus to work with local cultures.",
+    "topic": "localization",
+    "aliases": [
+      "localisation"
+    ],
+    "description": "Software localization (or localisation) means translation of a software interface and messages to another language plus adaptation of some formats (e.g. measures, dates and currency) plus adaptation to local cultures."
+  },
+  {
+    "created_by": "Roberto Ierusalimschy, Waldemar Celes, and Luiz Henrique de Figueiredo",
+    "display_name": "Lua",
+    "github_url": "https://github.com/lua",
+    "logo": "lua.png",
+    "related": [
+      "language"
+    ],
+    "released": 1993,
+    "short_description": "Lua is a lightweight, embeddable scripting language.",
+    "topic": "lua",
+    "url": "https://www.lua.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lua_(programming_language)",
+    "description": "Lua is a programming language written in C that emphasizes performance. It has automatic memory management and is often used to extend software written in other languages."
+  },
+  {
+    "display_name": "Ludum Dare",
+    "created_by": "Geoff Howland",
+    "github_url": "https://github.com/ludumdare",
+    "aliases": [
+      "ludumdare",
+      "ldjam",
+      "ld0",
+      "ldjam0",
+      "ld1",
+      "ldjam1",
+      "ld2",
+      "ldjam2",
+      "ld3",
+      "ldjam3",
+      "ld4",
+      "ldjam4",
+      "ld5",
+      "ldjam5",
+      "ld6",
+      "ldjam6",
+      "ld7",
+      "ldjam7",
+      "ld8",
+      "ldjam8",
+      "ld9",
+      "ldjam9",
+      "ld10",
+      "ldjam10",
+      "ld11",
+      "ldjam11",
+      "ld12",
+      "ldjam12",
+      "ld13",
+      "ldjam13",
+      "ld14",
+      "ldjam14",
+      "ld15",
+      "ldjam15",
+      "ld16",
+      "ldjam16",
+      "ld17",
+      "ldjam17",
+      "ld18",
+      "ldjam18",
+      "ld19",
+      "ldjam19",
+      "ld20",
+      "ldjam20",
+      "ld21",
+      "ldjam21",
+      "ld22",
+      "ldjam22",
+      "ld23",
+      "ldjam23",
+      "ld24",
+      "ldjam24",
+      "ld25",
+      "ldjam25",
+      "ld26",
+      "ldjam26",
+      "ld27",
+      "ldjam27",
+      "ld28",
+      "ldjam28",
+      "ld29",
+      "ldjam29",
+      "ld30",
+      "ldjam30",
+      "ld31",
+      "ldjam31",
+      "ld32",
+      "ldjam32",
+      "ld33",
+      "ldjam33",
+      "ld34",
+      "ldjam34",
+      "ld35",
+      "ldjam35",
+      "ld36",
+      "ldjam36",
+      "ld37",
+      "ldjam37",
+      "ld38",
+      "ldjam38",
+      "ld39",
+      "ldjam39",
+      "ld40",
+      "ldjam40",
+      "ld41",
+      "ldjam41",
+      "ld42",
+      "ldjam42",
+      "ld43",
+      "ldjam43",
+      "ld44",
+      "ldjam44",
+      "ld45",
+      "ldjam45",
+      "ld46",
+      "ldjam46",
+      "ld47",
+      "ldjam47",
+      "ld48",
+      "ldjam48",
+      "ld49",
+      "ldjam49"
+    ],
+    "related": [
+      "global-game-jam",
+      "game-off"
+    ],
+    "logo": "ludum-dare.png",
+    "short_description": "Ludum Dare is one of the world's largest and longest running Game Jam events.",
+    "topic": "ludum-dare",
+    "url": "http://ldjam.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ludum_Dare",
+    "description": "Ludum Dare is an online community best known for “Ludum Dare”, the Accelerated Game Development Event of the same name (also called a “Game Jam”). During a Ludum Dare, developers from around the world spend a weekend creating games based on a theme suggested by the community. Ludum Dare events take place every April, August and December."
+  },
+  {
+    "aliases": [
+      "machine-learning-algorithms",
+      "machine-learning-library",
+      "machine-learning-application",
+      "machine-learning-models"
+    ],
+    "display_name": "Machine learning",
+    "short_description": "Machine learning is a way of modeling and interpreting data that allows a piece of software to respond intelligently.",
+    "topic": "machine-learning",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Machine_learning",
+    "description": "Machine learning is the practice of teaching a computer to learn. The concept uses pattern recognition, as well as other forms of predictive algorithms, to make judgments on incoming data. This field is closely related to artificial intelligence and computational statistics."
+  },
+  {
+    "aliases": [
+      "macosx",
+      "macos-sierra",
+      "macos-app",
+      "mac-osx",
+      "mac"
+    ],
+    "created_by": "Apple",
+    "display_name": "macOS",
+    "logo": "macos.png",
+    "released": "March 24, 2001",
+    "short_description": "macOS is Apple's operating system.",
+    "topic": "macos",
+    "url": "https://www.apple.com/macos/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/MacOS",
+    "description": "macOS is the operating system that powers every Mac computer. It was designed by Apple and is meant specifically for their hardware."
+  },
+  {
+    "aliases": [
+      "mahapps-metro"
+    ],
+    "created_by": "Paul Jenkins",
+    "display_name": "MahApps.Metro",
+    "github_url": "https://github.com/MahApps/MahApps.Metro",
+    "logo": "mahapps.png",
+    "related": [
+      "metro",
+      "wpf"
+    ],
+    "released": "January 29, 2011",
+    "short_description": "A toolkit for creating metro-modern-style WPF applications.",
+    "topic": "mahapps",
+    "url": "http://mahapps.com/",
+    "description": "MahApps.Metro is a framework that allows developers to cobble together a `Metro` or `Modern` UI for their own `WPF` applications with minimal effort."
+  },
+  {
+    "aliases": [
+      "md",
+      "markdown-editor"
+    ],
+    "created_by": "John Gruber",
+    "display_name": "Markdown",
+    "logo": "markdown.png",
+    "released": "March 19, 2004",
+    "short_description": "Markdown is a lightweight markup language.",
+    "topic": "markdown",
+    "url": "https://daringfireball.net/projects/markdown/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Markdown",
+    "description": "Markdown is a lightweight markup language. It is designed to be a simple, lightweight way to add formatting without prior HTML experience."
+  },
+  {
+    "created_by": "Eugen Rochko",
+    "display_name": "Mastodon",
+    "github_url": "https://github.com/tootsuite",
+    "logo": "mastodon.png",
+    "released": "October 5, 2016",
+    "short_description": "Mastodon is a free, decentralized, open-source microblogging network.",
+    "topic": "mastodon",
+    "url": "https://joinmastodon.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mastodon_(software)",
+    "description": "Mastodon is a large social media network built as a decentralized federation of independently operated servers. It has a strong focus on privacy and anti-abuse features. Mastodon's server-side technology is Ruby on Rails, and its front end is written in JavaScript (React.js and Redux). It implements both the [OStatus](https://www.w3.org/community/ostatus/) and [ActivityPub](https://activitypub.rocks/) protocols and is thus interoperable with other social networks. [There are several client applications for different platforms available.](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/Apps.md)"
+  },
+  {
+    "aliases": [
+      "material-design-principles"
+    ],
+    "display_name": "Material design",
+    "logo": "material-design.png",
+    "short_description": "Material design is a unified system of theory and tools for creating digital experiences developed by Google.",
+    "topic": "material-design",
+    "related": [
+      "material"
+    ],
+    "url": "https://material.io/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Material_Design",
+    "description": "Material design is a design language developed by Google. It makes use of grid-based layouts, responsive animation, and transitioning."
+  },
+  {
+    "aliases": [
+      "matrix-laboratory"
+    ],
+    "created_by": "Cleve Moler",
+    "display_name": "MATLAB",
+    "logo": "matlab.png",
+    "released": 1984,
+    "short_description": "MATLAB is a programming platform for numerical computation and visualization.",
+    "topic": "matlab",
+    "url": "http://mathworks.com/products/matlab",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/MATLAB",
+    "description": "MATLAB is a high-performance language developed by MathWorks for technical computing, visualization, and programming. It is written in C, C++, Java and available for Windows, macOS, and Linux. Generally used by engineers and scientists in industry and academics for data analysis, signal processing, optimization and many other types of scientific computations."
+  },
+  {
+    "aliases": [
+      "apache-maven"
+    ],
+    "created_by": "Apache Software Foundation",
+    "display_name": "Maven",
+    "github_url": "https://github.com/apache/maven",
+    "logo": "maven.png",
+    "released": "July 13, 2004",
+    "short_description": "Maven is a build automation tool used primarily for Java projects.",
+    "topic": "maven",
+    "related": [
+      "java"
+    ],
+    "url": "https://maven.apache.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Apache_Maven",
+    "description": "Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting, and documentation from a central piece of information. Maven is typically used for Java projects."
+  },
+  {
+    "aliases": [
+      "minecraft-mod",
+      "minecraft-plugin"
+    ],
+    "created_by": "Markus Persson, Jens Bergensten",
+    "display_name": "Minecraft",
+    "logo": "minecraft.png",
+    "released": "November 18, 2011",
+    "short_description": "Minecraft is a sandbox video game.",
+    "topic": "minecraft",
+    "url": "https://minecraft.net/en-us/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Minecraft",
+    "description": "Published by Mojang, Minecraft is a game that allows its players virtually unlimited creative and building authority in their 3D cube world."
+  },
+  {
+    "aliases": [
+      "mobile-apps"
+    ],
+    "display_name": "Mobile",
+    "short_description": "Mobile apps, mobile OS, mobile databases, & mobile testing frameworks.",
+    "topic": "mobile",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Mobile_app_development",
+    "description": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These applications can be pre-installed on phones during manufacturing platforms, or delivered as web applications using server-side or client-side processing (e.g., JavaScript) to provide an \"application-like\" experience within a Web browser."
+  },
+  {
+    "aliases": [
+      "monero-cryptocurrency",
+      "monero-crypto"
+    ],
+    "created_by": "Monero",
+    "display_name": "Monero",
+    "github_url": "https://github.com/monero-project",
+    "released": "April 18, 2014",
+    "short_description": "Monero is a private, fungible, open source, decentralized cryptocurrency.",
+    "topic": "monero",
+    "url": "https://getmonero.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Monero_(cryptocurrency)",
+    "description": "Monero is a cryptocurrency focused on privacy, decentralization and scalability. Unlike many cryptocurrencies, Monero is based on CryptoNote protocol and possesses significant algorithmic differences relating to blockchain obfuscation."
+  },
+  {
+    "aliases": [
+      "mongodb-database"
+    ],
+    "created_by": "MongoDB Inc.",
+    "display_name": "MongoDB",
+    "github_url": "https://github.com/mongodb",
+    "logo": "mongodb.png",
+    "released": "February 11, 2009",
+    "short_description": "MongoDB is a NoSQL cross-platform database.",
+    "topic": "mongodb",
+    "url": "https://www.mongodb.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/MongoDB",
+    "description": "MongoDB is a NoSQL cross-platform database. It is designed for scalability and performance."
+  },
+  {
+    "aliases": [
+      "mongoosejs",
+      "mongoose-js",
+      "mongoose-plugin",
+      "mongoose-model"
+    ],
+    "created_by": "LearnBoost",
+    "display_name": "Mongoose",
+    "github_url": "https://github.com/Automattic/mongoose",
+    "logo": "mongoose.png",
+    "released": 2010,
+    "related": [
+      "mongodb",
+      "nodejs",
+      "orm",
+      "odm"
+    ],
+    "short_description": "Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.",
+    "topic": "mongoose",
+    "url": "http://mongoosejs.com",
+    "description": "Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment. Mongoose includes built-in type casting, validation, query building, and business logic hooks."
+  },
+  {
+    "aliases": [
+      "monitor",
+      "metrics"
+    ],
+    "display_name": "Monitoring",
+    "short_description": "Monitor the impact of your code changes. Measure performance, track errors, and analyze your application.",
+    "topic": "monitoring",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Application_performance_management",
+    "description": "In the fields of information technology and systems management, application performance management (APM) is the monitoring and management of performance and availability of software applications. APM strives to detect and diagnose complex application performance problems to maintain an expected level of service."
+  },
+  {
+    "aliases": [
+      "mvvmcross-plugin",
+      "xamarin-mvvmcross"
+    ],
+    "created_by": "Stuart Lodge",
+    "display_name": "MvvmCross",
+    "github_url": "https://github.com/mvvmcross",
+    "logo": "mvvmcross.png",
+    "related": [
+      "xamarin",
+      "dotnet",
+      "framework"
+    ],
+    "released": "June 2013",
+    "short_description": "The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows, and Mac.",
+    "topic": "mvvmcross",
+    "url": "https://www.mvvmcross.com/",
+    "description": "MvvmCross is a cross-platform model-view-view model framework that enables developers to create powerful, cross-platform mobile applications. It supports Xamarin.iOS, Xamarin.Android, Xamarin.Mac, Xamarin.Forms, Universal Windows Platform (UWP), and Windows Presentation Framework (WPF)."
+  },
+  {
+    "aliases": [
+      "mysql-database"
+    ],
+    "created_by": "David Axmark, Allan Larsson and Michael \"Monty\" Widenius",
+    "display_name": "MySQL",
+    "github_url": "https://github.com/mysql",
+    "logo": "mysql.png",
+    "released": "May 23, 1995",
+    "short_description": "MySQL is an open source relational database management system.",
+    "topic": "mysql",
+    "url": "https://www.mysql.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/MySQL",
+    "description": "MySQL is an open source relational database management system.  Based in Structured Query Language (SQL), MySQL can run on most platforms and is mainly used for web-based applications. It is written in C and C++."
+  },
+  {
+    "aliases": [
+      "tns"
+    ],
+    "created_by": "Progress",
+    "display_name": "NativeScript",
+    "github_url": "https://github.com/nativescript",
+    "logo": "nativescript.png",
+    "released": "March 2015",
+    "short_description": "NativeScript is a JavaScript-native mobile framework.",
+    "topic": "nativescript",
+    "url": "https://www.nativescript.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/NativeScript",
+    "description": "NativeScript is a JavaScript-native mobile framework developed by Progress. NativeScript allows developers to build truly native cross-platform iOS/Android mobile apps using existing web skills (JavaScript, CSS, XML) and established frameworks (Angular and Vue)."
+  },
+  {
+    "created_by": "Hongfei Da, Erik Zhang",
+    "display_name": "NEO",
+    "logo": "neo.png",
+    "released": "July 15, 2016",
+    "short_description": "A distributed network for the Smart Economy.",
+    "topic": "neo",
+    "related": [
+      "blockchain",
+      "cryptocurrency"
+    ],
+    "url": "https://www.neo.org/",
+    "github_url": "https://github.com/neo-project",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/NEO_(cryptocurrency)",
+    "description": "NEO is the use of blockchain technology and digital identity to digitize assets, the use of smart contracts for digital assets to be self-managed, to achieve \"smart economy\" with a distributed network."
+  },
+  {
+    "aliases": [
+      "nim-lang",
+      "nimlang",
+      "nim-language"
+    ],
+    "created_by": "Andreas Rumpf",
+    "display_name": "Nim",
+    "github_url": "https://github.com/nim-lang/Nim",
+    "logo": "nim.png",
+    "related": [
+      "language",
+      "c",
+      "c-plus-plus",
+      "javascript",
+      "python"
+    ],
+    "released": "2008",
+    "short_description": "Nim is a statically typed, compiled, garbage-collected systems programming language.",
+    "topic": "nim",
+    "url": "https://nim-lang.org",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Nim_(programming_language)",
+    "description": "Nim is a general-purpose systems programming language that's designed to be efficient, expressive, and elegant. The Nim compiler produces dependency-free binaries for most platforms as well as JavaScript for the web."
+  },
+  {
+    "aliases": [
+      "natural-language-processing",
+      "nlp-machine-learning",
+      "nlp-resources"
+    ],
+    "created_by": "Alan Turing",
+    "display_name": "Natural language processing",
+    "short_description": "Natural language processing (NLP) is the study of how computers and humans interact.",
+    "topic": "nlp",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Natural_language_processing",
+    "description": "Natural language processing (NLP) is a field of computer science that studies how computers and humans interact. In the 1950s, Alan Turing published an article that proposed a measure of intelligence, now called the Turing test. More modern techniques, such as deep learning, have produced results in the fields of language modeling, parsing, and natural-language tasks."
+  },
+  {
+    "aliases": [
+      "node",
+      "node-js"
+    ],
+    "created_by": "Ryan Dahl",
+    "display_name": "Node.js",
+    "github_url": "https://github.com/nodejs",
+    "logo": "nodejs.png",
+    "released": "May 27, 2009",
+    "short_description": "Node.js is a tool for executing JavaScript in a variety of environments.",
+    "topic": "nodejs",
+    "url": "https://nodejs.org/en/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Node.js",
+    "description": "Node.js is a tool for executing JavaScript in a variety of environments. JavaScript had humble beginnings as a language that lived only in web browsers, but the Node.js project has expanded its reach and helped make it the most  popular programming language in the world. Node.js extends the creative potential of people with web development experience, enabling a new generation  of developers to create servers, command-line tools, desktop apps, and even robots."
+  },
+  {
+    "aliases": [
+      "nosql-databases",
+      "nosql-database"
+    ],
+    "display_name": "NoSQL",
+    "short_description": "A NoSQL database refers to a database whose storage format is modeled differently from relational databases.",
+    "topic": "nosql",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/NoSQL",
+    "description": "A NoSQL database refers to a database whose storage format is modeled differently from relational databases. Often NoSQL databases opt for simpler horizontal scaling to clusters of servers. NoSQL databases are often used for large data web applications."
+  },
+  {
+    "aliases": [
+      "npmjs",
+      "npm-package"
+    ],
+    "created_by": "Isaac Z. Schlueter",
+    "display_name": "npm",
+    "github_url": "https://github.com/npm",
+    "logo": "npm.png",
+    "released": "January 12, 2010",
+    "short_description": "npm is a package manager for JavaScript included with Node.js.",
+    "topic": "npm",
+    "url": "https://www.npmjs.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Npm_(software)",
+    "description": "Npm is a package manager for JavaScript, included with Node.js. As a package manager, npm makes it easy for developers to share and reuse code."
+  },
+  {
+    "created_by": "Tom Love and Brad Cox",
+    "display_name": "Objective-C",
+    "logo": "objective-c.png",
+    "released": "1984",
+    "short_description": "Objective-C is general purpose, object-oriented programming language used for macOS and iOS operating systems.",
+    "topic": "objective-c",
+    "related": [
+      "language",
+      "c",
+      "clang",
+      "swift"
+    ],
+    "url": "https://developer.apple.com/documentation/objectivec",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Objective-C",
+    "description": "Objective-C builds on the foundations of ANSI C. Compared to other object-oriented languages based on C, Objective-C is very dynamic. Dynamism enables the construction of sophisticated development tools. Since Objective-C incorporates C, one gets all the benefits of C when working within Objective-C."
+  },
+  {
+    "aliases": [
+      "openaccess"
+    ],
+    "display_name": "Open Access",
+    "logo": "open-access.png",
+    "related": [
+      "academia",
+      "open-data",
+      "papers",
+      "research",
+      "science"
+    ],
+    "short_description": "Open Access research is available online for free.",
+    "topic": "open-access",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Open_access",
+    "description": "Open Access (OA) research is available online for free, often with permission to reuse. OA includes articles, data, code, books, research proposals, and entire journals, as well as supporting tools and policies."
+  },
+  {
+    "created_by": "Intel Corporation, Willow Garage, Itseez",
+    "display_name": "OpenCV",
+    "logo": "opencv.png",
+    "released": "December 23, 2017",
+    "short_description": "OpenCV was designed for computational efficiency and with a strong focus on real-time applications.",
+    "topic": "opencv",
+    "related": [
+      "c",
+      "cpp",
+      "java",
+      "python"
+    ],
+    "url": "https://opencv.org/",
+    "github_url": "https://github.com/opencv",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/OpenCV",
+    "description": "OpenCV (Open Source Computer Vision Library) is written in C/C++, for real time computer vision. It takes advantage of multi-core processing and hardware acceleration. Applications of OpenCV includes egomotion estimation, gesture recognition, facial recognition system, and artificial neural networks."
+  },
+  {
+    "created_by": "Silicon Graphics",
+    "display_name": "OpenGL",
+    "logo": "opengl.png",
+    "released": "January 1992",
+    "short_description": "OpenGL is a software interface that allows a programmer to communicate with graphics hardware.",
+    "topic": "opengl",
+    "related": [
+      "api",
+      "c",
+      "simulation"
+    ],
+    "url": "https://www.opengl.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/OpenGL",
+    "description": "OpenGL (Open Graphics Library) is the computer industry's standard API for defining 2-D and 3-D graphic images. OpenGL allows new hardware innovations to be accessible through the API via the OpenGL extension mechanism. It is used in CAD (Computer-aided design), virtual reality, video games, and flight simulation."
+  },
+  {
+    "aliases": [
+      "os",
+      "operating-systems",
+      "operating-systems-tutorials",
+      "operating-system-examples"
+    ],
+    "display_name": "Operating system",
+    "short_description": "An operating system is a program that manages a computer's programs and applications.",
+    "topic": "operating-system",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Operating_system",
+    "description": "An operating system operates and manages both the hardware and software in a computer. Operating systems provide software platforms for applications to function."
+  },
+  {
+    "aliases": [
+      "peer2peer",
+      "peer-to-peer"
+    ],
+    "display_name": "P2P",
+    "related": [
+      "decentralized",
+      "distributed",
+      "peer"
+    ],
+    "short_description": "Peer-to-Peer applications are decentralized or distributed.",
+    "topic": "p2p",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Peer-to-peer",
+    "description": "Peer-to-Peer (P2P) applications share resources and communicate in a decentralized or distributed architecture. Often application nodes communicate directly with each other or cooperate to do work which benefits other nodes or the overall P2P system. In a pure P2P system, there is no distinction between client and server."
+  },
+  {
+    "aliases": [
+      "package-manager-tool"
+    ],
+    "display_name": "Package manager",
+    "short_description": "A package manager is a set of tools that automates and manages computer software.",
+    "topic": "package-manager",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Package_manager",
+    "description": "A package manager is a set of tools that automates and manages computer software. They deal with packages, or collections, of bundled files. Package managers make it easy to install, upgrade, or remove software for a computer's operating system."
+  },
+  {
+    "aliases": [
+      "parser-generator",
+      "ast",
+      "lexer",
+      "tokenizer",
+      "grammar",
+      "lexical-analysis",
+      "parse",
+      "bnf",
+      "backus-naur-form",
+      "lalr"
+    ],
+    "display_name": "Language parsing",
+    "related": [
+      "language",
+      "yacc",
+      "antlr",
+      "semantic-analysis",
+      "symbol-table",
+      "lookahead",
+      "ll",
+      "lr-parser",
+      "generated-parser"
+    ],
+    "short_description": "Parsing is the process of analyzing a string of symbols conforming to the rules of a formal grammar.",
+    "topic": "parsing",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Parsing#Computer_languages",
+    "description": "A grammar describes the syntax of a programming language, and might be defined in Backus-Naur form (BNF). A lexer performs lexical analysis, turning text into tokens. A parser takes tokens and builds a data structure like an abstract syntax tree (AST). The parser is concerned with context: does the sequence of tokens fit the grammar? A compiler is a combined lexer and parser, built for a specific grammar."
+  },
+  {
+    "aliases": [
+      "perl5",
+      "perl-script"
+    ],
+    "created_by": "Larry Wall",
+    "display_name": "Perl",
+    "github_url": "https://github.com/Perl/perl5",
+    "logo": "perl.png",
+    "related": [
+      "language",
+      "perl6"
+    ],
+    "released": "December 18, 1987",
+    "short_description": "Perl is a highly capable and feature-rich programming language.",
+    "topic": "perl",
+    "url": "https://www.perl.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Perl",
+    "description": "Perl runs on over 100 platforms ranging from portables to mainframes. It can be used for almost all facets of programming, from rapid prototyping and large-scale development projects."
+  },
+  {
+    "aliases": [
+      "rakudo",
+      "nqp"
+    ],
+    "created_by": "Larry Wall",
+    "display_name": "Perl 6",
+    "github_url": "https://github.com/perl6",
+    "logo": "perl6.png",
+    "related": [
+      "language",
+      "perl"
+    ],
+    "released": "December 25, 2015",
+    "short_description": "Perl 6 is an expressive and feature-rich programming language.",
+    "topic": "perl6",
+    "url": "https://www.perl6.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Perl_6",
+    "description": "Perl 6 is an expressive and feature-rich programming language designed by Larry Wall and developed by the Perl 6 community. Features include: object-oriented programming, functional programming primitives, parallelism, concurrency, asynchrony, definable grammars for pattern matching and generalized string processing, and optional and gradual typing."
+  },
+  {
+    "aliases": [
+      "phaserjs"
+    ],
+    "created_by": "Richard Davey",
+    "display_name": "Phaser",
+    "github_url": "https://github.com/photonstorm/phaser",
+    "logo": "phaser.png",
+    "short_description": "Phaser is a fun, free, and fast 2D game framework for making HTML5 games for desktop and mobile web browsers.",
+    "topic": "phaser",
+    "url": "http://phaser.io/",
+    "description": "Phaser is a fast, free, and fun open source HTML5 game framework. It uses a custom build of Pixi.js for WebGL and Canvas rendering, and supports desktop and mobile web browsers. Games can be compiled to iOS, Android and native desktop apps via third party tools. You can use JavaScript or TypeScript for development."
+  },
+  {
+    "aliases": [
+      "php7",
+      "php5",
+      "php71"
+    ],
+    "created_by": "Rasmus Lerdorf",
+    "display_name": "PHP",
+    "github_url": "https://github.com/php",
+    "logo": "php.png",
+    "related": [
+      "language"
+    ],
+    "released": "June 8, 1995",
+    "short_description": "PHP is a scripting language that works particularly well for server-side web development.",
+    "topic": "php",
+    "url": "https://secure.php.net/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/PHP",
+    "description": "PHP is a scripting language that's particularly suited for server-side web development. PHP runtime is generally executed by webpage content, and can be added to HTML and HTML5 webpages. PHP was originally developed in 1994 by Rasmus Lerdorf."
+  },
+  {
+    "related": [
+      "php"
+    ],
+    "created_by": "Sebastian Bergmann",
+    "display_name": "PHPUnit",
+    "github_url": "https://github.com/sebastianbergmann/phpunit",
+    "released": "March 15, 2004",
+    "short_description": "PHPUnit is a programmer-oriented testing framework for PHP.",
+    "topic": "phpunit",
+    "url": "https://phpunit.de/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/PHPUnit",
+    "description": "PHPUnit is a unit testing framework for the PHP programming language. It is an instance of the xUnit architecture for unit testing frameworks."
+  },
+  {
+    "display_name": "Pixel Art",
+    "aliases": [
+      "pixelart"
+    ],
+    "related": [
+      "pixel",
+      "pixels",
+      "sprite",
+      "sprites",
+      "spritesheet",
+      "spritesheets"
+    ],
+    "short_description": "Pixel art is a form of digital art where images are created and edited at the pixel level.",
+    "topic": "pixel-art",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pixel_art",
+    "description": "Pixel art is a form of digital art, where images are edited on the pixel level. The aesthetic for these kind of graphics comes from 8-bit and 16-bit computers and video game consoles."
+  },
+  {
+    "aliases": [
+      "postgres"
+    ],
+    "created_by": "Michael Stonebraker",
+    "display_name": "PostgreSQL",
+    "github_url": "https://github.com/postgres/postgres",
+    "logo": "postgresql.png",
+    "released": "July 8, 1996",
+    "short_description": "PostgreSQL is an open source database system.",
+    "topic": "postgresql",
+    "url": "https://www.postgresql.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/PostgreSQL",
+    "description": "PostgreSQL is a database management system that is object-relational. PostgreSQL originated from the Ingres project at the University of California, Berkeley."
+  },
+  {
+    "display_name": "Privacy",
+    "related": [
+      "anonymity",
+      "encryption",
+      "privacy-policy",
+      "security",
+      "surveillance"
+    ],
+    "short_description": "Privacy is the option to limit the access others have to one's personal information.",
+    "topic": "privacy",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Privacy",
+    "description": "Privacy is the option to limit the access others have to one's personal information. Privacy can be compromised through various economic, legal, social, and technical means. Accordingly, various projects aim to develop privacy-protecting applications, how-to guides, and policies. 🔏"
+  },
+  {
+    "created_by": "Brandon Keepers, Bex Warner",
+    "related": [
+      "probot-app",
+      "github-apps",
+      "bot",
+      "node-github"
+    ],
+    "display_name": "Probot",
+    "github_url": "https://github.com/probot/",
+    "logo": "probot.png",
+    "released": "March 2017",
+    "short_description": "Probot lets you create GitHub Apps to automate and improve your workflow.",
+    "topic": "probot",
+    "url": "https://probot.github.io/",
+    "description": "Probot is a framework for building GitHub Apps in Node.js. Use pre-built apps to extend GitHub, and easily build and share your own."
+  },
+  {
+    "display_name": "Project management",
+    "short_description": "Project management is about building scope and executing on the project's goals.",
+    "topic": "project-management",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Project_management",
+    "description": "Project management is the practice of initiating, planning, executing, controlling, and closing the work of a team to achieve specific goals and meet specific success criteria at the specified time."
+  },
+  {
+    "display_name": "Publishing",
+    "short_description": "Publishing is the dissemination of making information available to the general public through various mediums.",
+    "topic": "publishing",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Desktop_publishing",
+    "description": "Publishing is the creation of documents using page layout skills on a personal computer primarily for print. Desktop publishing software can generate layouts and produce typographic quality text and images comparable to traditional typography and printing."
+  },
+  {
+    "aliases": [
+      "progressive-web-app",
+      "progressive-web-apps"
+    ],
+    "display_name": "PWA",
+    "logo": "pwa.png",
+    "related": [
+      "service-worker",
+      "offline",
+      "notifications",
+      "app-shell",
+      "manifest"
+    ],
+    "released": 2015,
+    "short_description": "Progressive Web Apps are traditional web sites that are enhanced with native like features.",
+    "topic": "pwa",
+    "url": "https://developer.mozilla.org/en-US/Apps/Progressive",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Progressive_web_app",
+    "description": "Progressive Web Apps start with a traditional web site/application and progressively enhance with modern features. When sites are [secure](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https) they can leverage  [ServiceWorkers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) to provider users with offline support, [Push notifications](https://developer.mozilla.org/en-US/docs/Web/API/Push_API) can help re-engage users, and [Web App Manifests](https://developer.mozilla.org/en-US/docs/Web/Manifest) let users install PWAs alongside native apps."
+  },
+  {
+    "aliases": [
+      "python3",
+      "python2",
+      "python-3",
+      "python-2",
+      "python27",
+      "python-3-6",
+      "python-3-5"
+    ],
+    "created_by": "Guido van Rossum",
+    "display_name": "Python",
+    "github_url": "https://github.com/python",
+    "logo": "python.png",
+    "related": [
+      "language",
+      "ruby"
+    ],
+    "released": "February 20, 1991",
+    "short_description": "Python is a dynamically typed programming language.",
+    "topic": "python",
+    "url": "https://www.python.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
+    "description": "Python is a dynamically typed programming language designed by Guido Van Rossum. Much like the programming language Ruby, Python was designed to be easily read by programmers. Because of its large following and many libraries, Python can be implemented and used to do anything from webpages to scientific research."
+  },
+  {
+    "aliases": [
+      "qt-framework",
+      "qt-application",
+      "qt5"
+    ],
+    "created_by": "Haavard Nord, Eirik Chambe-Eng",
+    "display_name": "Qt",
+    "github_url": "https://github.com/qt",
+    "logo": "qt.png",
+    "released": "May 20 1995",
+    "short_description": "Qt, pronounced \"cute\", is a cross-platform application development framework.",
+    "topic": "qt",
+    "related": [
+      "cpp"
+    ],
+    "url": "https://www.qt.io/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Qt_(software)",
+    "description": "Qt is a cross-platform application framework used for developing gui applications that can run on various hardware and software platforms, including Linux, macOS, iOS, Windows, and Blackberry. Qt is available with both proprietary and open source licenses."
+  },
+  {
+    "created_by": "Ross Ihaka, Robert Gentleman",
+    "display_name": "R",
+    "logo": "r.png",
+    "related": [
+      "language"
+    ],
+    "released": "August 1993",
+    "short_description": "R is a free programming language and software environment for statistical computing and graphics.",
+    "topic": "r",
+    "url": "https://www.r-project.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/R_(programming_language)",
+    "description": "R is a free programming language and software environment for statistical computing and graphics. R has a wide variety of statistical linear and non-linear modeling and provides numerous graphical techniques."
+  },
+  {
+    "aliases": [
+      "rails5",
+      "rails-application",
+      "ruby-on-rails",
+      "rails4",
+      "rubyonrails",
+      "rails-tutorial"
+    ],
+    "created_by": "David Heinemeier Hansson",
+    "display_name": "Rails",
+    "github_url": "https://github.com/rails",
+    "logo": "rails.png",
+    "released": "December 13 2005",
+    "short_description": "Ruby on Rails (Rails) is a web application framework written in Ruby.",
+    "topic": "rails",
+    "url": "http://rubyonrails.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ruby_on_Rails",
+    "description": "Ruby on Rails (Rails) is a web application framework written in Ruby. It is meant to help simplify the building of complex websites."
+  },
+  {
+    "aliases": [
+      "raspberry-pi-3",
+      "raspberry-pi-2",
+      "raspberry-pi-camera",
+      "raspberrypi"
+    ],
+    "created_by": "Raspberry Pi Foundation",
+    "display_name": "Raspberry Pi",
+    "github_url": "https://github.com/raspberrypi",
+    "logo": "raspberry-pi.png",
+    "released": "July 2011",
+    "short_description": "The Raspberry Pi is a popular single-board computer.",
+    "topic": "raspberry-pi",
+    "url": "https://www.raspberrypi.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Raspberry_Pi",
+    "description": "The Raspberry Pi is a popular single-board computer designed to promote the teaching of computer science in schools. The use of the Raspberry Pi computer ranges from robotics to home automation. Many variations of the Raspberry Pi exist, such as the Raspberry Pi Zero, which is smaller than the more powerful Raspberry Pi 3."
+  },
+  {
+    "related": [
+      "php",
+      "websockets",
+      "library",
+      "server",
+      "client"
+    ],
+    "created_by": "Chris Boden",
+    "display_name": "Ratchet",
+    "logo": "ratchet.png",
+    "github_url": "https://github.com/ratchetphp",
+    "released": "May 11, 2012",
+    "short_description": "Ratchet is a set of libraries to handle WebSockets asynchronously in PHP.",
+    "topic": "ratchet",
+    "url": "http://socketo.me/",
+    "description": "Ratchet is a set of libraries that allows PHP developers to create real-time, bidirectional applications between clients and servers over WebSockets. The organization provides the following repositories: Ratchet as a WebSocket server, Pawl as a WebSocket client, and RFC6455 which is an I/O-agnostic library for WebSocket protocol handling."
+  },
+  {
+    "aliases": [
+      "reactjs",
+      "react-js"
+    ],
+    "created_by": "Jordan Walke",
+    "display_name": "React",
+    "github_url": "https://github.com/facebook/react",
+    "logo": "react.png",
+    "related": [
+      "vue",
+      "angular",
+      "react-native"
+    ],
+    "released": "March 2013",
+    "short_description": "React is an open source JavaScript library used for designing user interfaces.",
+    "topic": "react",
+    "url": "https://reactjs.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/React_(JavaScript_library)",
+    "description": "React makes it simple to develop interactive user interfaces. It uses the Model View Controller (MVC) concept to manage individual pages in your web application."
+  },
+  {
+    "aliases": [
+      "react-native-app"
+    ],
+    "created_by": "Facebook",
+    "display_name": "React Native",
+    "github_url": "https://github.com/facebook/react-native",
+    "logo": "react-native.png",
+    "related": [
+      "reactjs"
+    ],
+    "released": "January 2015",
+    "short_description": "React Native is a JavaScript mobile framework developed by Facebook.",
+    "topic": "react-native",
+    "url": "http://reactnative.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/React_(JavaScript_library)#React_Native",
+    "description": "React Native is a JavaScript mobile framework developed by Facebook. It allows developers to build Android and iOS mobile apps using JavaScript and reuse code across web and mobile applications."
+  },
+  {
+    "created_by": "Paul Betts",
+    "display_name": "ReactiveUI",
+    "github_url": "https://github.com/reactiveui/reactiveui",
+    "logo": "reactiveui.png",
+    "released": 2009,
+    "short_description": "ReactiveUI is a composable, cross-platform model-view-viewmodel framework for all .NET platforms.",
+    "topic": "reactiveui",
+    "url": "https://reactiveui.net",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/reactiveui",
+    "description": "ReactiveUI is a composable, cross-platform model-view-viewmodel framework for all .NET platforms, inspired by functional reactive programming. It allows you to express the idea around a feature in one readable place, abstract mutable state away from your user interfaces, and improve the testability of your application."
+  },
+  {
+    "related": [
+      "php"
+    ],
+    "created_by": "Igor Wiedler",
+    "display_name": "ReactPHP",
+    "logo": "reactphp.png",
+    "github_url": "https://github.com/reactphp",
+    "released": "April 14, 2012",
+    "short_description": "ReactPHP is a library that allows event-driven, non-blocking I/O with PHP.",
+    "topic": "reactphp",
+    "url": "https://reactphp.org/",
+    "description": "ReactPHP is a low-level library for event-driven programming in PHP. At its core is an event loop, on top of which it provides low-level utilities, such as: a streams abstraction, asynchronous DNS resolver, network client/server, HTTP client/server, and interaction with processes."
+  },
+  {
+    "created_by": "Dan Abramov and Andrew Clark",
+    "display_name": "Redux",
+    "github_url": "https://github.com/reactjs/redux/",
+    "logo": "redux.png",
+    "related": [
+      "javascript",
+      "react"
+    ],
+    "released": "June 2, 2015",
+    "short_description": "Redux is a predictable state container for JavaScript apps.",
+    "topic": "redux",
+    "url": "http://redux.js.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Redux_(JavaScript_library)",
+    "description": "Redux is an open source JavaScript library, designed to allow for state management of JavaScript applications. Inspired by Elm, Redux is a debugging tool and supports robust application data-flow architecture. Redux is frequently used in combination with React."
+  },
+  {
+    "created_by": "Ryan Trinkle",
+    "display_name": "Reflex FRP",
+    "github_url": "https://github.com/reflex-frp/reflex-frp",
+    "logo": "reflex-frp.png",
+    "released": 2015,
+    "short_description": "Reflex FRP is a Haskell library for building interactive applications.",
+    "topic": "reflex-frp",
+    "aliases": [
+      "reflexfrp"
+    ],
+    "url": "https://reflex-frp.org",
+    "description": "Reflex FRP is a composable, cross-platform functional reactive programming framework for Haskell.  It allows you to build interactive components in pure functional style, working in harmony with established Haskell techniques and improving the quality and elegance of your applications."
+  },
+  {
+    "aliases": [
+      "rest",
+      "rest-api-tutorial"
+    ],
+    "display_name": "REST API",
+    "related": [
+      "api",
+      "graphql-api"
+    ],
+    "short_description": "A representational state transfer (REST) API is a way to provide compatibility between computer systems on the internet.",
+    "topic": "rest-api",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Representational_state_transfer",
+    "description": "A representational state transfer (REST) API is a way to provide compatibility between computer systems on the Internet. The concept was first outlined in a dissertation by Roy Fielding in 2000."
+  },
+  {
+    "created_by": "Yukihiro Matsumoto",
+    "display_name": "Ruby",
+    "github_url": "https://github.com/ruby/ruby",
+    "logo": "ruby.png",
+    "related": [
+      "rails",
+      "language",
+      "python"
+    ],
+    "released": "December 21, 1995",
+    "short_description": "Ruby is a scripting language designed for simplified object-oriented programming.",
+    "topic": "ruby",
+    "url": "https://www.ruby-lang.org/en/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ruby_(programming_language)",
+    "description": "Ruby was developed by Yukihiro \"Matz\" Matsumoto in 1995 with the intent of having an easily readable programming language. It is integrated with the Rails framework to create dynamic web-applications. Ruby's syntax is similar to that of Perl and Python."
+  },
+  {
+    "aliases": [
+      "rust-lang",
+      "rustlang",
+      "rust-language"
+    ],
+    "created_by": "Graydon Hoare",
+    "display_name": "Rust",
+    "github_url": "https://github.com/rust-lang",
+    "logo": "rust.png",
+    "related": [
+      "language",
+      "c-plus-plus"
+    ],
+    "released": "2010",
+    "short_description": "Rust is a systems programming language created by Mozilla.",
+    "topic": "rust",
+    "url": "https://www.rust-lang.org/en-US/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Rust_(programming_language)",
+    "description": "Rust is a systems programming language created by Mozilla. It is similar to C++, but is designed for improved memory safety without sacrificing performance."
+  },
+  {
+    "aliases": [
+      "scss",
+      "sass-library",
+      "sass-mixins",
+      "sass-framework",
+      "scss-framework"
+    ],
+    "created_by": "Hampton Catlin, Natalie Weizenbaum, Chris Eppstein",
+    "display_name": "Sass",
+    "github_url": "https://github.com/sass/sass",
+    "logo": "sass.png",
+    "released": "November 28, 2006",
+    "short_description": "Sass is a stable extension to classic CSS.",
+    "topic": "sass",
+    "url": "http://sass-lang.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sass_(stylesheet_language)",
+    "description": "Sass is a stylesheet language with a main implementation in Ruby. It is an extension of CSS that makes improvements to the old stylesheet format, such as being able to declare variables and using a cleaner nesting syntax."
+  },
+  {
+    "created_by": "Martin Odersky",
+    "display_name": "Scala",
+    "logo": "scala.png",
+    "released": "January 20, 2004",
+    "short_description": "Scala is an object-oriented programming language.",
+    "topic": "scala",
+    "url": "http://www.scala-lang.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scala_(programming_language)",
+    "description": "Scala is a general-purpose programming language providing support for functional programming and a strong static type system. Designed to be concise, many of Scala's design decisions aimed to address criticisms of Java."
+  },
+  {
+    "aliases": [
+      "sklearn"
+    ],
+    "created_by": "David Cournapeau",
+    "display_name": "scikit-learn",
+    "github_url": "https://github.com/scikit-learn/scikit-learn",
+    "logo": "scikit-learn.png",
+    "released": "January 05, 2010",
+    "short_description": "scikit-learn is a Python module for machine learning.",
+    "topic": "scikit-learn",
+    "related": [
+      "scikit",
+      "python"
+    ],
+    "url": "http://scikit-learn.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Scikit-learn",
+    "description": "scikit-learn is a widely-used Python module for classic machine learning. It is built on top of SciPy."
+  },
+  {
+    "aliases": [
+      "software-defined-networking",
+      "software-defined-network"
+    ],
+    "display_name": "Software-defined networking",
+    "related": [
+      "networking",
+      "openflow",
+      "nfv",
+      "sd-wan"
+    ],
+    "short_description": "Software-defined networking (SDN) is an architecture for programmable, centrally managed networks.",
+    "topic": "sdn",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Software-defined_networking",
+    "description": "Software-defined networking (SDN) separates network control from network data forwarding, allowing networks to be programmed and centrally managed with standard protocols. SDN is an enabler of network virtualization, or the ability to run multiple virtual network topologies on a shared physical network."
+  },
+  {
+    "aliases": [
+      "security-tools",
+      "security-vulnerability",
+      "security-audit"
+    ],
+    "display_name": "Security",
+    "short_description": "Cybersecurity is the protection of computer hardware, software, and data from theft, damage, and malicious intent.",
+    "topic": "security",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Computer_security",
+    "description": "Cybersecurity (security) includes controlling physical access to hardware as well as protection from attacks that come via network access, data injection, and code injection."
+  },
+  {
+    "aliases": [
+      "servers"
+    ],
+    "display_name": "Server",
+    "short_description": "A server is a program made to process requests and deliver data to clients.",
+    "topic": "server",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Server_(computing)",
+    "description": "A server is a program or device that provides functionality for other programs and devices, called clients. This relation forms the Client-Server Model."
+  },
+  {
+    "aliases": [
+      "serverless-architecture",
+      "serverless-examples"
+    ],
+    "display_name": "Serverless",
+    "short_description": "Serverless architecture refers to apps that depend on third-party services or custom code.",
+    "topic": "serverless",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Serverless_computing",
+    "description": "Serverless architecture refers to apps that depend on third-party services (backend as a service, or BaaS) or custom code (functions as a service, or FaaS). Their goal is to free the developer and operator from managing the server their code runs on."
+  },
+  {
+    "aliases": [
+      "shell-script",
+      "shell-scripts",
+      "shellscript",
+      "shellcode"
+    ],
+    "created_by": "Glenda Schroeder",
+    "display_name": "Shell",
+    "related": [
+      "bash"
+    ],
+    "released": "1965",
+    "short_description": "A shell is a command-line tool, designed to be run by the Unix shell.",
+    "topic": "shell",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Shell_script",
+    "description": "A shell is a text-based terminal, used for manipulating programs and files. Shell scripts typically manage program execution."
+  },
+  {
+    "aliases": [
+      "xdb"
+    ],
+    "created_by": "Michael Seifert, Ole Sas Thrane, and Jakob Christensen",
+    "display_name": "Sitecore",
+    "github_url": "https://github.com/sitecore",
+    "logo": "sitecore.png",
+    "related": [
+      "adobe",
+      "acquia",
+      "oracle",
+      "episerver",
+      "ibm"
+    ],
+    "released": 2001,
+    "short_description": "Robust content management that scales for enterprise needs.",
+    "topic": "sitecore",
+    "url": "https://sitecore.net",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sitecore",
+    "description": "Sitecore is a customer experience management company that provides web content management and multichannel marketing automation software."
+  },
+  {
+    "aliases": [
+      "sketch-plugin"
+    ],
+    "created_by": "Pieter Omvlee",
+    "display_name": "Sketch",
+    "github_url": "https://github.com/BohemianCoding",
+    "logo": "sketch.png",
+    "released": "September 7, 2010",
+    "short_description": "Sketch is a vector graphics editor for Apple's macOS, used primarily for user interface and icon design.",
+    "topic": "sketch",
+    "url": "https://www.sketchapp.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sketch_(application)",
+    "description": "Sketch is a digital design toolkit built for designers, intended for editing vector graphics in macOS. It is used primarily for user interface and icon design."
+  },
+  {
+    "aliases": [
+      "space-vim"
+    ],
+    "created_by": "Wang Shidong",
+    "display_name": "SpaceVim",
+    "github_url": "https://github.com/SpaceVim/SpaceVim",
+    "logo": "spacevim.png",
+    "released": "January 26, 2017",
+    "short_description": "SpaceVim is a community-driven distribution of the vim editor that allows managing your plugins in layers.",
+    "topic": "spacevim",
+    "url": "https://spacevim.org/",
+    "description": "SpaceVim is a distribution of the vim editor that's inspired by [spacemacs](https://github.com/syl20bnr/spacemacs). It manages collections of plugins in layers, which help collect related packages together to provide features. For example, the [python layer](http://spacevim.org/layers/lang/python/) collects [deoplete.nvim](https://github.com/Shougo/deoplete.nvim/), [neomake](https://github.com/neomake/neomake), and [jedi-vim](https://github.com/davidhalter/jedi-vim) together to provide autocompletion, syntax checking, and documentation lookup. This approach helps keep configuration organized and reduces overhead for the user by keeping them from having to think about what packages to install."
+  },
+  {
+    "aliases": [
+      "springboot"
+    ],
+    "created_by": "Pivotal Software",
+    "display_name": "Spring Boot",
+    "github_url": "https://github.com/spring-projects/spring-framework",
+    "logo": "spring-boot.png",
+    "released": "October 1, 2002",
+    "short_description": "Spring Boot is a coding and configuration model for Java applications.",
+    "topic": "spring-boot",
+    "url": "https://spring.io/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Spring_Framework",
+    "description": "Spring Boot is a coding and configuration model for Java applications. Spring was developed by Pivotal Software."
+  },
+  {
+    "created_by": "Donald D. Chamberlin, Raymond F. Boyce",
+    "display_name": "SQL",
+    "logo": "sql.png",
+    "released": 1986,
+    "short_description": "SQL is a standard language for storing, retrieving and manipulating data in databases.",
+    "topic": "sql",
+    "related": [
+      "database"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/SQL",
+    "description": "SQL stands for structured query language. It uses commands such as \"select\", \"insert\", \"delete\". Some common relational database management systems that use SQL are: Oracle, MySQL, Microsoft SQL Server, PostgreSQL, etc."
+  },
+  {
+    "aliases": [
+      "storybooks"
+    ],
+    "display_name": "Storybook",
+    "logo": "storybook.png",
+    "released": "March 31, 2016",
+    "related": [
+      "react",
+      "react-native",
+      "angular",
+      "vuejs",
+      "frontend",
+      "javascript",
+      "nodejs"
+    ],
+    "short_description": "Storybook is a UI development environment for your UI components.",
+    "topic": "storybook",
+    "github_url": "https://github.com/storybooks/storybook",
+    "url": "https://storybook.js.org",
+    "description": "With Storybook you can visualize different states of your UI components and develop them outside of your application.\n\nAn API is provided for external addons to provide documentation, interactivity and analytics on your components.\n\nA command is provided to create a static version that can be deployed easily to github pages for example."
+  },
+  {
+    "aliases": [
+      "ticketing",
+      "helpdesk"
+    ],
+    "display_name": "Support",
+    "short_description": "Get your team and customers the help they need.",
+    "topic": "support",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Help_desk",
+    "description": "A help desk is a resource intended to provide the customer or end user with information and support related to a company's or institution's products and services."
+  },
+  {
+    "topic": "swift",
+    "aliases": [
+      "swift3",
+      "swift-3",
+      "swift4",
+      "swift-4",
+      "swift-language"
+    ],
+    "related": [
+      "objective-c",
+      "language"
+    ],
+    "display_name": "Swift",
+    "created_by": "Apple",
+    "logo": "swift.png",
+    "released": "June 2, 2014",
+    "short_description": "Swift is a modern programming language focused on safety, performance, and expressivity.",
+    "url": "https://swift.org/",
+    "github_url": "https://github.com/apple/swift",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Swift_(programming_language)",
+    "description": "Swift is a general-purpose programming language built using a modern approach to safety, performance, and software design patterns. Inspired by many other modern programming languages, Swift is intended to be more resilient and expressive than Objective-C, its predecessor."
+  },
+  {
+    "aliases": [
+      "symfony2",
+      "symfony3",
+      "symfony-component",
+      "symfony-bundle"
+    ],
+    "created_by": "Fabien Potencier",
+    "display_name": "Symfony",
+    "github_url": "https://github.com/symfony",
+    "logo": "symfony.png",
+    "released": "October 2005",
+    "short_description": "Symfony is a set of reusable PHP components and a web framework.",
+    "topic": "symfony",
+    "url": "https://symfony.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Symfony",
+    "description": "Symfony is a set of reusable PHP components and a PHP framework for web projects."
+  },
+  {
+    "aliases": [
+      "tailwind-css",
+      "tailwindcss",
+      "tailwind-scaffolding"
+    ],
+    "created_by": "Adam Wathan, Jonathan Reinink, David Hemphill, Steve Schoger",
+    "display_name": "Tailwind CSS",
+    "github_url": "https://github.com/tailwindcss",
+    "logo": "tailwind.png",
+    "related": [
+      "framework",
+      "css",
+      "postcss",
+      "css-framework"
+    ],
+    "released": "October 2017",
+    "short_description": "Tailwind is a utility-first CSS framework.",
+    "topic": "tailwind",
+    "url": "https://tailwindcss.com/",
+    "description": "Tailwind is an utility-first CSS framework for rapid UI development written in PostCSS and configured through JavaScript, making it highly customizable by design. Tailwind doesn’t have a default theme nor built-in UI components. This means it has no opinion about how your site should look and doesn’t impose design decisions that can be difficult to undo."
+  },
+  {
+    "aliases": [
+      "telegram-client",
+      "telegram-bot",
+      "telegram-api"
+    ],
+    "created_by": "Telegram Messenger LLP",
+    "display_name": "Telegram",
+    "logo": "telegram.png",
+    "released": "August 2013",
+    "short_description": "Telegram is a non-profit, cloud-based instant messaging service.",
+    "topic": "telegram",
+    "url": "https://telegram.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Telegram_(messaging_service)",
+    "description": "Telegram is a non-profit, cloud-based instant messaging service. It offers open source clients [for a multitude of operating systems](https://telegram.org/apps) and powerful APIs that allow developers to create their [own clients](https://core.telegram.org/api#telegram-api) and [chat bots](https://core.telegram.org/bots)."
+  },
+  {
+    "aliases": [
+      "tensorflow-tutorials",
+      "tensorflow-experiments",
+      "tensorflow-models",
+      "tensorflow-examples",
+      "tensorflow-1-0",
+      "tensorflow-tutorial"
+    ],
+    "created_by": "Google Brain Team",
+    "display_name": "Tensorflow",
+    "github_url": "https://github.com/tensorflow",
+    "logo": "tensorflow.png",
+    "released": "November 9, 2015",
+    "short_description": "TensorFlow is an open source software library for numerical computation.",
+    "topic": "tensorflow",
+    "url": "https://www.tensorflow.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/TensorFlow",
+    "description": "TensorFlow is an open source library that was created by Google. It is used to design, build, and train deep learning models."
+  },
+  {
+    "aliases": [
+      "command-line",
+      "command-prompt",
+      "computer-terminal"
+    ],
+    "display_name": "Terminal",
+    "short_description": "The terminal is an interface in which you can type and execute text-based commands.",
+    "topic": "terminal",
+    "related": [
+      "unix-shell",
+      "bash-shell"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Computer_terminal",
+    "description": "Terminal is a serial computer interface for text entry and display. Instruction given to perform a task are called commands. Current computers (GUI based) uses terminal emulators such as Unix shell, BASH shell, command prompt."
+  },
+  {
+    "aliases": [
+      "hashicorp-terraform",
+      "terraform-configurations",
+      "terraform-module",
+      "terraform-modules",
+      "terraform-providers"
+    ],
+    "created_by": "Mitchell Hashimoto, HashiCorp",
+    "display_name": "Terraform",
+    "github_url": "https://github.com/hashicorp/terraform",
+    "logo": "terraform.png",
+    "related": [
+      "hashicorp",
+      "infrastructure",
+      "infrastructure-as-code"
+    ],
+    "released": "July 28, 2014",
+    "short_description": "An infrastructure-as-code tool for building, changing, and versioning infrastructure safely and efficiently.",
+    "topic": "terraform",
+    "url": "https://www.terraform.io",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Terraform_(software)",
+    "description": "Terraform can manage existing and popular service providers, such as [AWS](https://github.com/terraform-providers/terraform-provider-aws), as well as custom in-house solutions.\n\nIt uses configuration files to describe the components necessary to run a single application or your entire datacenter.\nIt generates an execution plan describing what will happen to reach the desired state, and afterwards executes it to build the desired infrastructure. As the configuration changes, Terraform is able to determine the changes and create incremental execution plans which can be applied.\n\nThe infrastructure Terraform can manage includes low-level components such as compute instances, storage, and networking, as well as high-level components such as DNS (Domain Name Service) entries, SaaS (Software as a Service) features."
+  },
+  {
+    "aliases": [
+      "testing-tools",
+      "testing-framework",
+      "testing-practices"
+    ],
+    "display_name": "Testing",
+    "short_description": "Eliminate bugs and ship with more confidence by adding these tools to your workflow.",
+    "topic": "testing",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Software_testing",
+    "description": "Testing is the practice of systematically testing software to make sure it works. Testing can be iterative, and happen multiple times.\nEliminate bugs and ship with more confidence by adding these tools to your workflow."
+  },
+  {
+    "aliases": [
+      "thelounge-theme"
+    ],
+    "display_name": "The Lounge",
+    "github_url": "https://github.com/thelounge/thelounge",
+    "logo": "thelounge.png",
+    "related": [
+      "irc",
+      "irc-client",
+      "chat",
+      "javascript"
+    ],
+    "released": "February 12, 2016",
+    "short_description": "The Lounge is a modern web IRC client designed to be self-hosted.",
+    "topic": "thelounge",
+    "url": "https://thelounge.chat",
+    "description": "The Lounge is a modern web IRC (Internet Relay Chat) client designed to be self-hosted. It is cross-platform, runs in the browser, and keeps IRC connections open when clients are closed. It is built with JavaScript and Node.js."
+  },
+  {
+    "display_name": "Twitter",
+    "github_url": "https://github.com/twitter",
+    "logo": "twitter.png",
+    "created_by": "Jack Dorsey, Noah Glass, Biz Stone, Evan Williams",
+    "released": "March 21, 2006",
+    "short_description": "Twitter is an online news and social networking service where users post and interact with messages, known as \"tweets\".",
+    "topic": "twitter",
+    "url": "https://www.twitter.com",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Twitter",
+    "description": "Twitter is an online news and social networking service where users post and interact with messages, known as \"tweets.\" These messages were originally restricted to 140 characters, but in November 2017, the limit was doubled to 280 characters for all languages except Japanese, Korean, and Chinese."
+  },
+  {
+    "aliases": [
+      "typescript2"
+    ],
+    "created_by": "Microsoft",
+    "display_name": "TypeScript",
+    "github_url": "https://github.com/Microsoft/TypeScript",
+    "logo": "typescript.png",
+    "related": [
+      "language",
+      "javascript",
+      "nodejs",
+      "es6"
+    ],
+    "released": "October 1, 2012",
+    "short_description": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.",
+    "topic": "typescript",
+    "url": "https://www.typescriptlang.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/TypeScript",
+    "description": "TypeScript is an open source programming language developed by Microsoft and first released in 2012. It is designed to add type safety to JavaScript while conforming as closely as possible to the syntax and semantics of the ECMAScript standard. \n\nIt is a syntactical superset of the JavaScript programming language; all valid JavaScript source code is also valid TypeScript source code, but not vice-versa. TypeScript compiles (or transpiles) to JavaScript, meaning that it can be utilized to target any JavaScript environment. It can be used to develop JavaScript for both client-side and server-side applications."
+  },
+  {
+    "aliases": [
+      "kubuntu",
+      "xubuntu",
+      "lubuntu",
+      "edubuntu",
+      "ubuntu1604",
+      "ubuntu1404",
+      "ubuntu1704",
+      "ubuntu1204",
+      "ubuntu-core"
+    ],
+    "created_by": "Canonical Ltd., Ubuntu community",
+    "display_name": "Ubuntu",
+    "github_url": "https://github.com/ubuntu",
+    "logo": "ubuntu.png",
+    "released": "October 2004",
+    "short_description": "Ubuntu is a Linux-based operating system.",
+    "topic": "ubuntu",
+    "url": "https://www.ubuntu.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Ubuntu_(operating_system)",
+    "description": "Ubuntu builds upon Debian's architecture to provide a Linux server and desktop operating system. Ubuntu prioritizes security, as the majority of its network ports are closed by default."
+  },
+  {
+    "aliases": [
+      "unity3d"
+    ],
+    "created_by": "Unity Technologies",
+    "display_name": "Unity",
+    "github_url": "https://github.com/Unity-Technologies",
+    "logo": "unity.png",
+    "short_description": "Unity is a game engine used to create 2D/3D video games, and simulations for computers, consoles, and mobile devices.",
+    "topic": "unity",
+    "url": "https://unity3d.com/",
+    "description": "Unity is a game development platform used to build high-quality 3D/2D games that can deployed across mobile, desktop, VR/AR, consoles, or the web."
+  },
+  {
+    "aliases": [
+      "ue4",
+      "unrealengine",
+      "unrealengine4",
+      "unreal-engine-4"
+    ],
+    "created_by": "Epic Games",
+    "display_name": "Unreal Engine",
+    "github_url": "https://github.com/EpicGames/",
+    "logo": "unreal-engine.png",
+    "short_description": "Unreal Engine is used to create awesome games, and experiences for PC, mobile, console, VR, and AR.",
+    "topic": "unreal-engine",
+    "url": "https://www.unrealengine.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Unreal_Engine",
+    "description": "Unreal Engine is a complete suite of development tools made for anyone working with real-time technology. From enterprise applications and cinematic experiences to high-quality games across PC, console, mobile, VR, and AR."
+  },
+  {
+    "created_by": "Apereo",
+    "display_name": "uPortal",
+    "github_url": "https://github.com/Jasig/uPortal",
+    "logo": "uportal.png",
+    "related": [
+      "apereo",
+      "portlet",
+      "soffit"
+    ],
+    "released": "December 1999",
+    "short_description": "uPortal is an enterprise portal for education institutions.",
+    "topic": "uportal",
+    "url": "https://www.apereo.org/projects/uportal",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/UPortal",
+    "description": "uPortal is an open source enterprise portal framework built by and for higher education institutions, K-12 schools, and research communities. uPortal is built on open standards-based technologies such as Java and XML, and enables easy, standards-based integration with authentication and security infrastructures, single sign-on secure access, campus applications, web-based content, and end user customization."
+  },
+  {
+    "aliases": [
+      "userjs",
+      "greasemonkey",
+      "tampermonkey",
+      "violentmonkey"
+    ],
+    "created_by": "Aaron Boodman",
+    "display_name": "Userscripts",
+    "github_url": "https://github.com/greasemonkey/greasemonkey",
+    "released": "March 28, 2005",
+    "short_description": "A userscript is a kind of kind of lightweight browser extension, used to modify webpages.",
+    "topic": "userscript",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Userscript",
+    "related": [
+      "webextension",
+      "javascript"
+    ],
+    "description": "A userscript is a kind of lightweight and less privileged browser extension written in JavaScript used to modify webpages. Userscripts may use the special API, usually referred as [`GM_API`](https://wiki.greasespot.net/Greasemonkey_Manual:API), allowing them to bypass [same-origin policy](https://en.wikipedia.org/wiki/Same-origin_policy) and store data in separate storage not accessable to web pages. The technology was initially introduced in the [GreaseMonkey](https://github.com/greasemonkey/greasemonkey) extension for [Firefox web browser](https://www.mozilla.org/firefox/), and then spread to other browsers, sometimes built-in, like in [Presto-based Opera](https://en.wikipedia.org/wiki/Presto_\\(layout_engine\\)), sometimes with help of extensions, like in [Chromium](https://www.chromium.org)-based browsers. The most famous catalogs of userscripts are [GreasyFork](https://greasyfork.org/) and [OpenUserJS](https://openuserjs.org/)."
+  },
+  {
+    "display_name": "Vagrant",
+    "github_url": "https://github.com/hashicorp/vagrant",
+    "logo": "vagrant.png",
+    "created_by": "Mitchell Hashimoto",
+    "released": "March 8, 2010",
+    "short_description": "Vagrant is an open-source software product for building and maintaining portable virtual software development environments.",
+    "topic": "vagrant",
+    "url": "https://www.vagrantup.com",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vagrant_(software)",
+    "description": "Vagrant is a software product for building and maintaining portable virtual software development environments, e.g. for VirtualBox, Hyper-V, Docker, VMware, and AWS. The core idea behind it lies in the fact that the environment maintenance of virtualizations becomes increasingly difficult in a large software development project."
+  },
+  {
+    "created_by": "Bram Moolenaar",
+    "display_name": "Vim",
+    "github_url": "https://github.com/vim/vim",
+    "logo": "vim.png",
+    "released": "November 2, 1991",
+    "short_description": "Vim is a console-run text editor program.",
+    "topic": "vim",
+    "related": [
+      "emacs"
+    ],
+    "url": "http://www.vim.org/download.php",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vim_(text_editor)",
+    "description": "Vim is a highly customizable text editor that can run in a shell. Bram Moolenaar is credited with the development of Vim, which he began in 1988."
+  },
+  {
+    "aliases": [
+      "virtual-reality-experiences",
+      "virtual-reality-worlds",
+      "vr"
+    ],
+    "display_name": "Virtual reality",
+    "short_description": "Virtual reality is an artificial environment displayed through digital means.",
+    "topic": "virtual-reality",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Virtual_reality",
+    "description": "Virtual reality is a fully immersive and interactive computer-simulated environment. Currently, the most popular display option is through a VR headset."
+  },
+  {
+    "aliases": [
+      "vuejs",
+      "vuejs2",
+      "vue2"
+    ],
+    "created_by": "Evan You",
+    "display_name": "Vue.js",
+    "github_url": "https://github.com/vuejs/vue",
+    "logo": "vue.png",
+    "related": [
+      "angular",
+      "react"
+    ],
+    "released": "February 2014",
+    "short_description": "Vue.js is a JavaScript framework for building interactive web applications.",
+    "topic": "vue",
+    "url": "https://vuejs.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Vue.js",
+    "description": "Vue is a JavaScript framework for building websites. The intent of Vue is to make the integration of other JavaScript libraries easy. It is designed to organize and simplify web development."
+  },
+  {
+    "aliases": [
+      "wagtail-cms"
+    ],
+    "related": [
+      "django",
+      "python"
+    ],
+    "created_by": "Torchbox",
+    "display_name": "Wagtail",
+    "github_url": "https://github.com/wagtail",
+    "logo": "wagtail.png",
+    "released": "February 2014",
+    "short_description": "Wagtail is an open source CMS written in Python and built on the Django web framework.",
+    "topic": "wagtail",
+    "url": "https://wagtail.io/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Wagtail_(CMS)",
+    "description": "Wagtail is a free and open source content management system (CMS)\nwritten in Python. The project has a focus on developer friendliness\nas well as ease of use of its administration interface,\ntranslated in multiple languages."
+  },
+  {
+    "aliases": [
+      "webassembly",
+      "wasm"
+    ],
+    "display_name": "WebAssembly",
+    "github_url": "https://github.com/WebAssembly",
+    "logo": "web-assembly.png",
+    "short_description": "WebAssembly is a web standard that defines a binary format and an assembly-like text format for executable code in Web pages.",
+    "topic": "web-assembly",
+    "related": [
+      "javascript",
+      "asmjs"
+    ],
+    "url": "http://webassembly.org",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/WebAssembly",
+    "description": "WebAssembly (abbreviated Wasm) is a binary instruction format for a stack-based virtual machine. Wasm is designed as a portable target for compilation of high-level languages like C/C++/Rust, enabling deployment on the web for client and server applications."
+  },
+  {
+    "aliases": [
+      "webcomponent",
+      "web-component",
+      "webcomponents"
+    ],
+    "created_by": "Alex Russell",
+    "display_name": "Web Components",
+    "github_url": "https://github.com/webcomponents",
+    "logo": "web-components.png",
+    "related": [
+      "custom-elements",
+      "shadow-dom",
+      "es-modules",
+      "html-templates",
+      "html-imports"
+    ],
+    "released": 2011,
+    "short_description": "Web Components are a set of web platform APIs developers can use to create custom HTML tags.",
+    "topic": "web-components",
+    "url": "https://www.webcomponents.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Web_Components",
+    "description": "Developers can create custom, reusable, encapsulated HTML tags for the web using Web Components. Components use the [Custom Element](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements) standard, frequently in combination with the [Shadow DOM](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM), [HTML Templates](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template), and [ES Modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)."
+  },
+  {
+    "aliases": [
+      "web-application",
+      "web-app",
+      "webapps",
+      "webapplication"
+    ],
+    "display_name": "Web app",
+    "short_description": "A web application is any computer program that performs a specific function by using a web browser as its client.",
+    "topic": "webapp",
+    "related": [
+      "app",
+      "mobile-app",
+      "webdev"
+    ],
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Web_application",
+    "description": "A web application is any program that is accessed over a network connection using HTTP, usually via a web browser. Web apps do not have to be installed on a user's device; they are run from a remote server. This differs from mobile apps, which are installed on the user's mobile device, and desktop applications, which are installed on the user's computer. Common examples of web apps include Flash games, online calculators, calendars, Gmail, and Facebook."
+  },
+  {
+    "aliases": [
+      "webpack2",
+      "webpack3"
+    ],
+    "created_by": "Tobias Koppers, Sean Larkin, Johannes Ewald, Juho Vepsäläinen, Kees Kluskens",
+    "display_name": "Webpack",
+    "github_url": "https://github.com/webpack",
+    "logo": "webpack.png",
+    "released": "March 10, 2012",
+    "short_description": "Webpack is a bundler that takes modules with dependencies and creates static assets.",
+    "topic": "webpack",
+    "url": "https://webpack.js.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Webpack",
+    "description": "Webpack is a bundler that takes modules with dependencies and creates static assets. It is designed to simplify and enhance the development and user experience."
+  },
+  {
+    "aliases": [
+      "windows-10",
+      "windows10",
+      "windows-7",
+      "windows-8"
+    ],
+    "created_by": "Microsoft Corporation",
+    "display_name": "Windows",
+    "github_url": "https://github.com/Microsoft",
+    "logo": "windows.png",
+    "released": "November 20, 1985",
+    "short_description": "Windows is Microsoft's GUI-based operating system.",
+    "topic": "windows",
+    "url": "https://www.microsoft.com/en-us/windows",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Microsoft_Windows",
+    "description": "Windows is Microsoft's GUI-based operating system. It is known for its graphical display and is designed to be user-friendly."
+  },
+  {
+    "topic": "wordplate",
+    "created_by": "Vincent Klaiber",
+    "display_name": "WordPlate",
+    "github_url": "https://github.com/wordplate",
+    "logo": "wordplate.png",
+    "released": "October 4, 2013",
+    "related": [
+      "wordpress",
+      "composer",
+      "laravel",
+      "symfony",
+      "php"
+    ],
+    "short_description": "WordPlate is a modern WordPress stack built with Composer.",
+    "url": "https://wordplate.github.io/",
+    "description": "WordPlate is a modern WordPress stack. WordPlate uses WordPress as a framework that lets you install plugins and themes with Composer via WPackagist. WordPlate is built on top of Laravel and Symfony components."
+  },
+  {
+    "aliases": [
+      "wordpress-development",
+      "wordpress-site"
+    ],
+    "created_by": "Matt Mullenweg, Mike Little",
+    "display_name": "WordPress",
+    "github_url": "https://github.com/WordPress",
+    "logo": "wordpress.png",
+    "released": "May 27, 2003",
+    "short_description": "WordPress is a popular content management system, used for websites and blogs.",
+    "topic": "wordpress",
+    "url": "https://wordpress.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/WordPress",
+    "description": "WordPress is a popular content management system, used for websites and blogs. WordPress is written in PHP and MySQL and is designed to be flexible and user-friendly."
+  },
+  {
+    "created_by": "Miguel de Icaza, Nat Friedman",
+    "display_name": "Xamarin",
+    "github_url": "https://github.com/xamarin",
+    "logo": "xamarin.png",
+    "related": [
+      "mono"
+    ],
+    "released": "May 16 2011",
+    "short_description": "Xamarin is a platform for developing iOS and Android applications.",
+    "topic": "xamarin",
+    "url": "https://www.xamarin.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Xamarin",
+    "description": "Xamarin is a Microsoft-owned, San Francisco, California-based software company. It was founded by the creators of Mono, Mono for Android, and MonoTouch, which are cross-platform implementations of the Common Language Infrastructure (CLI) and Common Language Specifications (often called Microsoft .NET).\n\nWith a C#-shared codebase, developers can use Xamarin tools to write native Android, iOS, and Windows apps. The apps have native user interfaces and share code across multiple platforms, including Windows and macOS."
+  },
+  {
+    "created_by": "World Wide Web Consortium",
+    "display_name": "XML",
+    "released": 1996,
+    "short_description": "XML is subset of SGML (Standard Generalized Markup Language) used to store and transport data.",
+    "topic": "xml",
+    "related": [
+      "css",
+      "html",
+      "rss",
+      "xhtml",
+      "web"
+    ],
+    "url": "https://www.w3.org/TR/xml/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/XML",
+    "description": "XML stands for Extensible Markup Language and is a text-based markup language. It is designed to store and transport data, HTML is used to format and display the same data. It allows developers to create their own self-descriptive tags, or language, that suits their application."
+  },
+  {
+    "aliases": [
+      "yii2",
+      "yii-framework",
+      "yii2-framework",
+      "yii2-extension"
+    ],
+    "display_name": "Yii Framework",
+    "github_url": "https://github.com/yiisoft",
+    "logo": "yii.png",
+    "related": [
+      "framework",
+      "php",
+      "php-framework"
+    ],
+    "released": "December 2008",
+    "short_description": "Yii is a fast, secure, and efficient PHP framework.",
+    "topic": "yii",
+    "url": "https://www.yiiframework.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yii",
+    "description": "Yii is a popular PHP framework, for efficiently developing\nfast and secure web applications and APIs.\n\nIt comes with [comprehensive documentation](https://www.yiiframework.com/doc/guide)\nand a large amount of [extensions](https://www.yiiframework.com/extensions)\nthat provide useful functionality."
+  },
+  {
+    "display_name": "ZEIT",
+    "github_url": "https://github.com/zeit",
+    "logo": "zeit.png",
+    "short_description": "A company that builds tools that make cloud computing as easy and accessible as mobile computing.",
+    "topic": "zeit",
+    "url": "https://zeit.co",
+    "description": "ZEIT's mission is to make cloud computing as easy and accessible as mobile computing. It builds products for developers and designers, and those who aspire to become one."
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "name": "github-topics-json",
+  "version": "0.0.1",
+  "description": "GitHub topics in json",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "front-matter": "^2.3.0",
+    "fs-extra": "^7.0.0"
+  }
+}
