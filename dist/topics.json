@@ -819,6 +819,16 @@
     "description": ".NET is a software framework developed by Microsoft in February of 2002 as an infrastructure for building and running applications and services. The purpose of .NET is to make it easier for users to share information between websites. The framework is intended to be utilized for Windows platforms."
   },
   {
+    "topic": "duckduckgo",
+    "github_url": "https://github.com/duckduckgo",
+    "display_name": "DuckDuckGo",
+    "logo": "duckduckgo.png",
+    "short_description": "DuckDuckGo is an Internet search engine that prioritizes privacy by not tracking users.",
+    "url": "https://duckduckgo.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/DuckDuckGo",
+    "description": "DuckDuckGo is an Internet search engine that emphasizes protecting searchers' privacy and avoiding the filter bubble of personalized search results."
+  },
+  {
     "aliases": [
       "electronjs"
     ],
@@ -1232,6 +1242,20 @@
     "description": "Google is an American multinational technology company that specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware."
   },
   {
+    "display_name": "Google Cloud Platform",
+    "topic": "google-cloud",
+    "github_url": "https://github.com/GoogleCloudPlatform",
+    "related": [
+      "google",
+      "firebase"
+    ],
+    "released": "April 2008",
+    "short_description": "Google Cloud Platform, offered by Google, is a suite of cloud computing services.",
+    "url": "https://cloud.google.com",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Google_Cloud_Platform",
+    "description": "Google Cloud Platform, offered by Google, is a suite of cloud computing services. Google Cloud Platform provides Infrastructure as a Service, Platform as a Service, and Serverless Computing environments."
+  },
+  {
     "display_name": "Gradle",
     "github_url": "https://github.com/gradle/gradle",
     "logo": "gradle.png",
@@ -1601,7 +1625,7 @@
     "description": "Kotlin is a statically typed programming language for modern multiplatform applications. 100% interoperable with Java and Android, it now supports JavaScript and native with LLVM (including iOS). It was developed by JetBrains in 2011, and designed to be a new language for the Java Virtual Machine (JVM) that can compile quickly."
   },
   {
-    "created_by": "Joe Beda, Brendan Burns, and Craig McLuckie",
+    "created_by": "@jbeda, @brendandburns, and @craigmcl",
     "display_name": "Kubernetes",
     "github_url": "https://github.com/kubernetes/kubernetes",
     "logo": "kubernetes.png",
@@ -1672,6 +1696,15 @@
     "topic": "library",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Library_(computing)",
     "description": "A library is a collection of preprogrammed templates that implement a behavior when invoked. Libraries are well-defined and are designed for reuse throughout implementation. For example, a website may have multiple webpages that implement the same navigation bar or text-field, but none of these objects have relation to one another."
+  },
+  {
+    "topic": "lineageos",
+    "github_url": "https://github.com/LineageOS",
+    "display_name": "LineageOS",
+    "short_description": "A free and open source operating system for smartphones and tablet computers.",
+    "url": "https://www.lineageos.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/LineageOS",
+    "description": "LineageOS is a free and open source operating system for smartphones and tablet computers, based on the Android mobile platform."
   },
   {
     "aliases": [
@@ -2243,6 +2276,20 @@
     "github_url": "https://github.com/opencv",
     "wikipedia_url": "https://en.wikipedia.org/wiki/OpenCV",
     "description": "OpenCV (Open Source Computer Vision Library) is written in C/C++, for real time computer vision. It takes advantage of multi-core processing and hardware acceleration. Applications of OpenCV includes egomotion estimation, gesture recognition, facial recognition system, and artificial neural networks."
+  },
+  {
+    "aliases": [
+      "openfin-api"
+    ],
+    "display_name": "OpenFin",
+    "short_description": "OpenFin allows web applications to run as first-class citizens on the desktop.",
+    "topic": "openfin",
+    "created_by": "Brian Schwinn",
+    "github_url": "https://github.com/openfin",
+    "logo": "openfin.png",
+    "released": "December 2012",
+    "url": "https://openfin.co",
+    "description": "OpenFin is a web application runtime and API that brings native user experience and interoperability to web applications.  Built on Chromium, OpenFin brings the latest in web standards to the Financial community."
   },
   {
     "created_by": "Silicon Graphics",
