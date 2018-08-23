@@ -1,6 +1,6 @@
 {
   "name": "github-topics-json",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "GitHub topics in json",
   "main": "init.js",
   "scripts": {

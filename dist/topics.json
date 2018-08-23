@@ -293,10 +293,18 @@
     "description": "Azure is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through a global network of Microsoft-managed data centers."
   },
   {
+    "aliases": [
+      "babeljs"
+    ],
     "created_by": "Sebastian McKenzie, James Kyle, Henry Zhu, Logan Smyth, Daniel Tschinder",
     "display_name": "Babel",
     "github_url": "https://github.com/babel",
     "logo": "babel.png",
+    "related": [
+      "babel-preset",
+      "babel-plugin",
+      "babel-es6"
+    ],
     "released": "September 28, 2014",
     "short_description": "Babel is a compiler for writing next generation JavaScript, today.",
     "topic": "babel",
@@ -320,6 +328,25 @@
     "url": "https://www.gnu.org/software/bash/",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bash_(Unix_shell)",
     "description": "Bash (Bourne Again Shell) is a shell and command language interpreter for the GNU operating system. It is meant to be an improved version of Bourne Shell."
+  },
+  {
+    "display_name": "BASIC8",
+    "aliases": [
+      "basic-8"
+    ],
+    "related": [
+      "tic-80",
+      "pico-8",
+      "liko-12",
+      "pixel-vision-8"
+    ],
+    "short_description": "BASIC8 is an integrated Fantasy Computer for game, and other program development.",
+    "topic": "basic8",
+    "url": "https://paladin-t.github.io/b8/",
+    "github_url": "https://github.com/paladin-t/b8",
+    "created_by": "Wang Renxin",
+    "logo": "basic8.png",
+    "description": "BASIC8 is an integrated Fantasy Computer for game, and other program development. You can create, share, and play disks in a modern BASIC dialect, with built-in tools for editing sprites, tiles, maps, and more."
   },
   {
     "aliases": [
@@ -468,6 +495,25 @@
   },
   {
     "aliases": [
+      "content-management-system",
+      "content-management"
+    ],
+    "display_name": "Content Management System",
+    "related": [
+      "content-delivery",
+      "web-application",
+      "blog",
+      "blogging",
+      "writing",
+      "publishing"
+    ],
+    "short_description": "Software providing website authoring, collaboration, and administration tools.",
+    "topic": "cms",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Web_content_management_system",
+    "description": "A content management system (CMS) is a piece of software which provides website authoring, collaboration, and administration tools that help users with little knowledge of programming languages create and manage website content."
+  },
+  {
+    "aliases": [
       "quality"
     ],
     "display_name": "Code quality",
@@ -517,26 +563,13 @@
     "description": "Composer is a tool for dependency management in PHP. It allows you to declare the libraries your project depends on and manage them for you."
   },
   {
-    "aliases": [
-      "cms",
-      "headless",
-      "api-first"
-    ],
     "created_by": "Sascha Konietzke and Paolo Negri",
     "display_name": "Contentful",
     "github_url": "https://github.com/contentful",
     "logo": "contentful.png",
     "related": [
-      "content-management",
-      "content-delivery",
-      "javascript",
-      "php",
-      "java",
-      "python",
-      "ruby",
-      "dotnet",
-      "ios",
-      "android"
+      "cms",
+      "content-delivery"
     ],
     "released": 2011,
     "short_description": "Contentful provides a content infrastructure that enables teams to power content in any digital product.",
@@ -1013,7 +1046,9 @@
   },
   {
     "aliases": [
-      "mozilla-firefox"
+      "mozilla-firefox",
+      "firefox-quantum",
+      "firefox-browser"
     ],
     "related": [
       "mozilla",
@@ -1022,7 +1057,8 @@
       "edge",
       "opera",
       "browser",
-      "gecko"
+      "gecko",
+      "firefox-extension"
     ],
     "created_by": "Mozilla",
     "display_name": "Firefox",
@@ -1031,8 +1067,34 @@
     "released": "September 23, 2002",
     "short_description": "Firefox is an open source web browser from Mozilla.",
     "topic": "firefox",
-    "url": "https://www.mozilla.org/en-US/firefox",
+    "url": "https://www.mozilla.org/firefox",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Firefox",
     "description": "Firefox is a free and open source web browser developed by Mozilla Foundation. First released in 2002 under the name Phoenix. It's available for most operating systems including Windows, macOS, Linux and most phones and tablets."
+  },
+  {
+    "aliases": [
+      "firefox-extensions",
+      "firefox-addon",
+      "firefox-addons",
+      "add-ons-for-firefox",
+      "firefox-webextension",
+      "firefox-webextensions"
+    ],
+    "related": [
+      "firefox",
+      "webextension",
+      "mozilla",
+      "browser"
+    ],
+    "created_by": "Mozilla",
+    "display_name": "Firefox extension",
+    "logo": "firefox-extension.png",
+    "released": "April 4, 2006",
+    "short_description": "Firefox Extensions are add-ons that allow users to customize their web browser.",
+    "topic": "firefox-extension",
+    "url": "https://addons.mozilla.org/firefox/extensions",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Add-on_(Mozilla)",
+    "description": "Firefox Extensions are add-ons that allow users to customize their web browser from Mozilla. They are downloadable through the Firefox Add-on website. Modern extensions follow WebExtension standard and are most often written in HTML, JavaScript, and CSS."
   },
   {
     "aliases": [
@@ -1696,6 +1758,25 @@
     "topic": "library",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Library_(computing)",
     "description": "A library is a collection of preprogrammed templates that implement a behavior when invoked. Libraries are well-defined and are designed for reuse throughout implementation. For example, a website may have multiple webpages that implement the same navigation bar or text-field, but none of these objects have relation to one another."
+  },
+  {
+    "display_name": "LIKO-12",
+    "aliases": [
+      "liko12"
+    ],
+    "related": [
+      "tic-80",
+      "pico-8",
+      "pixel-vision-8",
+      "basic8"
+    ],
+    "short_description": "LIKO-12 is an open source fantasy computer made using LÖVE.",
+    "topic": "liko-12",
+    "created_by": "Rami Sabbagh",
+    "github_url": "https://github.com/RamiLego4Game/LIKO-12",
+    "url": "https://ramilego4game.itch.io/liko12",
+    "logo": "liko-12.png",
+    "description": "LIKO-12 is an open source fantasy computer completely written in the Lua programming language where you can make, play and share tiny retro-looking games and programs."
   },
   {
     "topic": "lineageos",
@@ -2464,6 +2545,25 @@
     "description": "PHPUnit is a unit testing framework for the PHP programming language. It is an instance of the xUnit architecture for unit testing frameworks."
   },
   {
+    "display_name": "PICO-8",
+    "aliases": [
+      "pico8"
+    ],
+    "related": [
+      "tic-80",
+      "liko-12",
+      "pixel-vision-8",
+      "basic8"
+    ],
+    "short_description": "PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs in Lua.",
+    "topic": "pico-8",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pico-8",
+    "created_by": "Joseph White",
+    "url": "https://www.lexaloffle.com/pico-8.php",
+    "logo": "pico-8.png",
+    "description": "PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. When you turn it on, the machine greets you with a shell for typing in Lua commands and provides simple built-in tools for creating your own cartridges."
+  },
+  {
     "display_name": "Pixel Art",
     "aliases": [
       "pixelart"
@@ -2480,6 +2580,26 @@
     "topic": "pixel-art",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Pixel_art",
     "description": "Pixel art is a form of digital art, where images are edited on the pixel level. The aesthetic for these kind of graphics comes from 8-bit and 16-bit computers and video game consoles."
+  },
+  {
+    "display_name": "Pixel Vision 8",
+    "aliases": [
+      "pixelvision-8",
+      "pixelvision8"
+    ],
+    "related": [
+      "tic-80",
+      "pico-8",
+      "liko-12",
+      "basic8"
+    ],
+    "short_description": "Pixel Vision 8 is an open source fantasy game console for building authentic 8-bit games.",
+    "topic": "pixel-vision-8",
+    "url": "https://www.pixelvision8.com/",
+    "github_url": "https://github.com/pixelvision8",
+    "created_by": "Jesse Freeman",
+    "logo": "pixel-vision-8.png",
+    "description": "Pixel Vision 8 is a platform that standardizes 8-bit fantasy console limitations built on top of an open source C# SDK. It's core philosophy is to teach retro game development with streamlined workflows. It enables designing games around limited resolutions, colors, sprites, sound, and memory. It is ideal for game jams, prototyping ideas, or having fun."
   },
   {
     "aliases": [
@@ -3225,6 +3345,25 @@
     "description": "The Lounge is a modern web IRC (Internet Relay Chat) client designed to be self-hosted. It is cross-platform, runs in the browser, and keeps IRC connections open when clients are closed. It is built with JavaScript and Node.js."
   },
   {
+    "display_name": "TIC-80",
+    "aliases": [
+      "tic80"
+    ],
+    "related": [
+      "liko-12",
+      "pico-8",
+      "pixel-vision-8",
+      "basic8"
+    ],
+    "short_description": "TIC-80 is a fantasy computer for making, playing, and sharing tiny games.",
+    "topic": "tic-80",
+    "url": "https://tic.computer/",
+    "github_url": "https://github.com/nesbox/TIC-80",
+    "created_by": "Vadim Grigoruk",
+    "logo": "tic-80.png",
+    "description": "TIC-80 is a tiny computer which you can use to make, play, and share tiny games. There are built-in tools for development: code, sprites, maps, sound editors, and a command line, which is enough to create a mini retro game."
+  },
+  {
     "display_name": "Twitter",
     "github_url": "https://github.com/twitter",
     "logo": "twitter.png",
@@ -3485,6 +3624,32 @@
     ],
     "wikipedia_url": "https://en.wikipedia.org/wiki/Web_application",
     "description": "A web application is any program that is accessed over a network connection using HTTP, usually via a web browser. Web apps do not have to be installed on a user's device; they are run from a remote server. This differs from mobile apps, which are installed on the user's mobile device, and desktop applications, which are installed on the user's computer. Common examples of web apps include Flash games, online calculators, calendars, Gmail, and Facebook."
+  },
+  {
+    "aliases": [
+      "webextensions",
+      "web-extension",
+      "web-extensions",
+      "browserext"
+    ],
+    "related": [
+      "w3c",
+      "browser",
+      "firefox",
+      "firefox-extension",
+      "chrome",
+      "chrome-extension",
+      "mozilla",
+      "opera",
+      "edge"
+    ],
+    "created_by": "Browser Extension Community Group",
+    "display_name": "WebExtension",
+    "released": "May 7, 2015",
+    "short_description": "Universal standard for creating add-ons that allow users to customize their web browser.",
+    "topic": "webextension",
+    "url": "https://browserext.github.io",
+    "description": "Universal standard for creating browser extensions.\n\nWorking through a W3C charter group, Mozilla has partnered with Microsoft and Opera to define a browser extension API that works across multiple browsers. \n\nThere is currently a preliminary specification that matches what Google has implemented in Chrome so that extensions written to the specification could potentially work on Chrome, Edge, Opera and Firefox."
   },
   {
     "aliases": [
