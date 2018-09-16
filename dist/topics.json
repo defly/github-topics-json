@@ -30,6 +30,22 @@
     "description": "ActivityPub is a decentralized social networking protocol standardized by the World Wide Web Consortium (W3C). It includes both an API for social networking clients and an API for server-server federation."
   },
   {
+    "aliases": [
+      "artificial-intelligence",
+      "machine-intelligence"
+    ],
+    "display_name": "Artificial Intelligence",
+    "related": [
+      "machine-learning",
+      "deep-learning",
+      "neural-network"
+    ],
+    "short_description": "Artificial intelligence is the ability of a computer or machine to perform tasks commonly associated with intelligent beings.",
+    "topic": "ai",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+    "description": "The branch of computer science dealing with the reproduction, or mimicking of human-level intelligence, self-awareness, knowledge, conscience, and thought in computer programs."
+  },
+  {
     "display_name": "Ajax",
     "short_description": "Ajax is a technique for creating interactive web applications.",
     "topic": "ajax",
@@ -561,6 +577,23 @@
     "url": "https://getcomposer.org/",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Composer_(software)",
     "description": "Composer is a tool for dependency management in PHP. It allows you to declare the libraries your project depends on and manage them for you."
+  },
+  {
+    "aliases": [
+      "machine-vision"
+    ],
+    "display_name": "Computer vision",
+    "related": [
+      "vision",
+      "deep-learning",
+      "machine-learning",
+      "opencv",
+      "gan"
+    ],
+    "short_description": "Computer vision tasks include methods for acquiring, processing, analyzing, and understanding digital images.",
+    "topic": "computer-vision",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Computer_vision",
+    "description": "Computer vision is an interdisciplinary field that deals with how computers can be made to gain high-level understanding of digital images and videos."
   },
   {
     "created_by": "Sascha Konietzke and Paolo Negri",
@@ -1482,6 +1515,22 @@
   },
   {
     "aliases": [
+      "digital-image-processing"
+    ],
+    "display_name": "Image processing",
+    "related": [
+      "computer-vision",
+      "vision",
+      "deep-learning",
+      "opencv"
+    ],
+    "short_description": "Digital image processing is the use of algorithms to make computers understand the image content.",
+    "topic": "image-processing",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Digital_image_processing",
+    "description": "Digital image processing is the use of algorithms to make computers analyze the content of digital images."
+  },
+  {
+    "aliases": [
       "ios-app",
       "ios-swift",
       "ios10",
@@ -2224,6 +2273,21 @@
     "github_url": "https://github.com/neo-project",
     "wikipedia_url": "https://en.wikipedia.org/wiki/NEO_(cryptocurrency)",
     "description": "NEO is the use of blockchain technology and digital identity to digitize assets, the use of smart contracts for digital assets to be self-managed, to achieve \"smart economy\" with a distributed network."
+  },
+  {
+    "aliases": [
+      "artificial-neural-network"
+    ],
+    "display_name": "Neural Network",
+    "related": [
+      "machine-learning",
+      "deep-learning",
+      "tensorflow"
+    ],
+    "short_description": "Artificial neural network is a computational model based on the structure and functions of biological neural networks.",
+    "topic": "neural-network",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Artificial_neural_network",
+    "description": "Artificial neural networks (ANN) are computational systems that \"learn\" to perform tasks by considering examples, generally without being programmed with any task-specific rules."
   },
   {
     "aliases": [
