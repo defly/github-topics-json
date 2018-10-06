@@ -826,6 +826,19 @@
   },
   {
     "aliases": [
+      "discordapp"
+    ],
+    "topic": "discord",
+    "github_url": "https://github.com/discordapp",
+    "display_name": "Discord",
+    "logo": "discord.png",
+    "short_description": "Discord is a free voice, video, and text chat app for teens and adults ages 13 and up.",
+    "url": "https://discordapp.com",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Discord_(software)",
+    "description": "Discord is a proprietary freeware voice-over-Internet Protocol (VoIP) application designed for video gaming communities, that specializes in text, image, video, and audio communication between users in a chat channel."
+  },
+  {
+    "aliases": [
       "django-framework",
       "django-application"
     ],
@@ -1997,6 +2010,20 @@
     "description": "Ludum Dare is an online community best known for “Ludum Dare”, the Accelerated Game Development Event of the same name (also called a “Game Jam”). During a Ludum Dare, developers from around the world spend a weekend creating games based on a theme suggested by the community. Ludum Dare events take place every April, August and December."
   },
   {
+    "created_by": "Tim Caswell",
+    "display_name": "Luvit",
+    "logo": "luvit.png",
+    "released": 2011,
+    "short_description": "Asynchronous I/O for Lua.",
+    "topic": "luvit",
+    "url": "https://luvit.io",
+    "related": [
+      "lua"
+    ],
+    "github_url": "https://github.com/luvit/luvit",
+    "description": "Luvit is an asychronous I/O Lua runtime environment developed by Tim Caswell and contributors that implements Node.js APIs to Lua."
+  },
+  {
     "aliases": [
       "machine-learning-algorithms",
       "machine-learning-library",
@@ -2588,11 +2615,11 @@
       "language"
     ],
     "released": "June 8, 1995",
-    "short_description": "PHP is a scripting language that works particularly well for server-side web development.",
+    "short_description": "PHP is a popular general-purpose scripting language that works particularly well for server-side web development.",
     "topic": "php",
     "url": "https://secure.php.net/",
     "wikipedia_url": "https://en.wikipedia.org/wiki/PHP",
-    "description": "PHP is a scripting language that's particularly suited for server-side web development. PHP runtime is generally executed by webpage content, and can be added to HTML and HTML5 webpages. PHP was originally developed in 1994 by Rasmus Lerdorf."
+    "description": "PHP is a popular general-purpose scripting language that's particularly suited for server-side web development. PHP runtime is generally executed by webpage content, and can be added to HTML and HTML5 webpages. PHP was originally developed in 1994 by Rasmus Lerdorf."
   },
   {
     "related": [
@@ -2769,7 +2796,7 @@
     "topic": "python",
     "url": "https://www.python.org/",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Python_(programming_language)",
-    "description": "Python is a dynamically typed programming language designed by Guido Van Rossum. Much like the programming language Ruby, Python was designed to be easily read by programmers. Because of its large following and many libraries, Python can be implemented and used to do anything from webpages to scientific research."
+    "description": "Python is a dynamically typed programming language designed by Guido van Rossum. Much like the programming language Ruby, Python was designed to be easily read by programmers. Because of its large following and many libraries, Python can be implemented and used to do anything from webpages to scientific research."
   },
   {
     "aliases": [
@@ -2880,7 +2907,7 @@
     "topic": "react",
     "url": "https://reactjs.org/",
     "wikipedia_url": "https://en.wikipedia.org/wiki/React_(JavaScript_library)",
-    "description": "React makes it simple to develop interactive user interfaces. It uses the Model View Controller (MVC) concept to manage individual pages in your web application."
+    "description": "React (also known as React.js or ReactJS) is a JavaScript library that makes developing interactive user interfaces simple."
   },
   {
     "aliases": [
