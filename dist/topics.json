@@ -1079,6 +1079,27 @@
     "description": "F-Droid is an installable catalogue of FOSS (Free and open source software) applications for the Android platform."
   },
   {
+    "topic": "fantasy-console",
+    "aliases": [
+      "fantasy-computer"
+    ],
+    "related": [
+      "retro",
+      "retrogame",
+      "retrogaming",
+      "retrocomputing",
+      "pico-8",
+      "liko-12",
+      "tic-80",
+      "pixelvision8",
+      "basic8",
+      "pyxel"
+    ],
+    "display_name": "Fantasy console",
+    "short_description": "Fantasy consoles are small development environments that force users to work within constraints on graphics, sound, sprites, etc.",
+    "description": "A fantasy console is a game engine and/or virtual machine simulating and inspired by 8-bit computers and consoles from yesteryear. It forces developers to work within constraints on color palettes, sound channels, resolution, memory, etc. Very popular in the retrogaming and game jam scenes."
+  },
+  {
     "created_by": "James Tamplin, Andrew Lee",
     "display_name": "Firebase",
     "github_url": "https://github.com/firebase/",
@@ -1867,6 +1888,27 @@
     "description": "Linux is an open source operating system modeled after UNIX. Widely used, it is known for its efficiency and reliability."
   },
   {
+    "created_by": "John McCarthy",
+    "display_name": "Lisp",
+    "logo": "lisp.png",
+    "related": [
+      "commonlisp",
+      "common-lisp",
+      "quicklisp",
+      "sbcl",
+      "clojure",
+      "scheme",
+      "racket",
+      "newlisp"
+    ],
+    "released": 1958,
+    "short_description": "Lisp is the second-oldest high-level programming language in widespread use today.",
+    "topic": "lisp",
+    "url": "https://planet.lisp.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Lisp_(programming_language)",
+    "description": "Lisp is the second-oldest high-level programming language in widespread use today. It was originally created as a practical mathematical notation for computer programs. Lisp pioneered many ideas in computer science, including tree data structures, automatic storage management, dynamic typing, and the self-hosting compiler."
+  },
+  {
     "display_name": "Localization",
     "short_description": "Translation of a software interface and messages to another language plus to work with local cultures.",
     "topic": "localization",
@@ -2590,6 +2632,22 @@
   },
   {
     "aliases": [
+      "pharo-smalltalk",
+      "pharo-project"
+    ],
+    "created_by": "Pharo Project",
+    "display_name": "Pharo",
+    "github_url": "https://github.com/pharo-project",
+    "logo": "pharo.png",
+    "released": "April 15, 2010",
+    "short_description": "Pharo is an open source, dynamic and reflective programming language and live coding IDE.",
+    "topic": "pharo",
+    "url": "https://pharo.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Pharo",
+    "description": "Pharo is an open source dynamic and reflective language inspired from the programming language \nand integrated development environment (IDE) Smalltalk. \nPharo offers strong live programming features such as immediate object manipulation, \nlive update and hot recompiling. The live programming environment is at the heart of the system."
+  },
+  {
+    "aliases": [
       "phaserjs"
     ],
     "created_by": "Richard Davey",
@@ -3256,6 +3314,28 @@
   },
   {
     "aliases": [
+      "sublime",
+      "sublime-text-3"
+    ],
+    "created_by": "Jon Skinner, Sublime HQ Pty Ltd",
+    "display_name": "Sublime Text",
+    "github_url": "https://github.com/sublimehq/Packages",
+    "logo": "sublime-text.png",
+    "related": [
+      "sublime-text-plugin",
+      "sublime-plugin",
+      "sublime-package",
+      "text-editor"
+    ],
+    "released": "January 18, 2008",
+    "short_description": "A cross-platform source code editor with a Python API.",
+    "topic": "sublime-text",
+    "url": "https://www.sublimetext.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Sublime_Text",
+    "description": "A sophisticated text editor for code, markup and prose.\nIt has many powerful features for file and project navigation, build systems, integration with other tools and customization in the form of plugins, themes, and syntax styles."
+  },
+  {
+    "aliases": [
       "ticketing",
       "helpdesk"
     ],
@@ -3575,7 +3655,7 @@
       "webextension",
       "javascript"
     ],
-    "description": "A userscript is a kind of lightweight and less privileged browser extension written in JavaScript used to modify webpages. Userscripts may use the special API, usually referred as [`GM_API`](https://wiki.greasespot.net/Greasemonkey_Manual:API), allowing them to bypass [same-origin policy](https://en.wikipedia.org/wiki/Same-origin_policy) and store data in separate storage not accessable to web pages. The technology was initially introduced in the [GreaseMonkey](https://github.com/greasemonkey/greasemonkey) extension for [Firefox web browser](https://www.mozilla.org/firefox/), and then spread to other browsers, sometimes built-in, like in [Presto-based Opera](https://en.wikipedia.org/wiki/Presto_\\(layout_engine\\)), sometimes with help of extensions, like in [Chromium](https://www.chromium.org)-based browsers. The most famous catalogs of userscripts are [GreasyFork](https://greasyfork.org/) and [OpenUserJS](https://openuserjs.org/)."
+    "description": "A userscript is a kind of lightweight and less privileged browser extension written in JavaScript used to modify webpages. Userscripts may use the special API, usually referred as [`GM_API`](https://wiki.greasespot.net/Greasemonkey_Manual:API), allowing them to bypass [same-origin policy](https://en.wikipedia.org/wiki/Same-origin_policy) and store data in separate storage not accessible to web pages. The technology was initially introduced in the [GreaseMonkey](https://github.com/greasemonkey/greasemonkey) extension for [Firefox web browser](https://www.mozilla.org/firefox/), and then spread to other browsers, sometimes built-in, like in [Presto-based Opera](https://en.wikipedia.org/wiki/Presto_\\(layout_engine\\)), sometimes with help of extensions, like in [Chromium](https://www.chromium.org)-based browsers. The most famous catalogs of userscripts are [GreasyFork](https://greasyfork.org/) and [OpenUserJS](https://openuserjs.org/)."
   },
   {
     "display_name": "Vagrant",
@@ -3824,6 +3904,21 @@
     "url": "https://www.xamarin.com/",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Xamarin",
     "description": "Xamarin is a Microsoft-owned, San Francisco, California-based software company. It was founded by the creators of Mono, Mono for Android, and MonoTouch, which are cross-platform implementations of the Common Language Infrastructure (CLI) and Common Language Specifications (often called Microsoft .NET).\n\nWith a C#-shared codebase, developers can use Xamarin tools to write native Android, iOS, and Windows apps. The apps have native user interfaces and share code across multiple platforms, including Windows and macOS."
+  },
+  {
+    "aliases": [
+      "xcode-theme",
+      "xcode-themes"
+    ],
+    "created_by": "Apple",
+    "display_name": "Xcode",
+    "logo": "xcode.png",
+    "released": 2003,
+    "short_description": "Xcode is an IDE for macOS to develop software for macOS, iOS, watchOS, and tvOS.",
+    "topic": "xcode",
+    "url": "https://developer.apple.com/xcode",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Xcode",
+    "description": "Xcode is an integrated development environment (IDE) for macOS containing a suite of software development tools developed by Apple for developing software for macOS, iOS, watchOS, and tvOS. Xcode pulls all the tools needed to produce an application (particularly a text editor, a compiler, and a build system) into one software package rather than leaving them as a set of individual tools connected by scripts."
   },
   {
     "created_by": "World Wide Web Consortium",
