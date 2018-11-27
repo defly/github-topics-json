@@ -113,7 +113,7 @@
     "github_url": "https://github.com/android",
     "logo": "android.png",
     "released": "September 23, 2008",
-    "short_description": "Android is an operating system built by Google designed for mobile applications.",
+    "short_description": "Android is an operating system built by Google designed for mobile devices.",
     "topic": "android",
     "url": "https://www.android.com/",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Android_(operating_system)",
@@ -326,6 +326,20 @@
     "topic": "babel",
     "url": "https://babeljs.io/",
     "description": "🐠 Babel is a compiler created by [Sebastian McKenzie](https://github.com/kittens) in 2014 to convert ES6 to ES5 (originally called 6to5). It has since become a toolchain that enables developers to write any next generation JavaScript and serves as a testing ground for proposals from [TC39](https://github.com/tc39), the technical committee that specifies [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript). Babel can also convert [JSX syntax](https://facebook.github.io/jsx/) and strip out type annotations from both [Flow](https://flow.org/) and [TypeScript](https://www.typescriptlang.org/). Babel is built out of plugins. Compose your own transformation pipeline using [plugins written by the community](https://www.npmjs.com/browse/keyword/babel-plugin) or [write your own](https://github.com/thejameskyle/babel-handbook)."
+  },
+  {
+    "aliases": [
+      "backbone"
+    ],
+    "created_by": "Jeremy Ashkenas",
+    "display_name": "Backbone.js",
+    "logo": "backbonejs.png",
+    "released": "October 13, 2010",
+    "short_description": "Backbone.js is a JavaScript library for building modern web apps and services.",
+    "topic": "backbonejs",
+    "url": "https://backbonejs.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Backbone.js",
+    "description": "Backbone supplies structure to JavaScript-heavy applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface."
   },
   {
     "aliases": [
@@ -594,6 +608,28 @@
     "topic": "computer-vision",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Computer_vision",
     "description": "Computer vision is an interdisciplinary field that deals with how computers can be made to gain high-level understanding of digital images and videos."
+  },
+  {
+    "created_by": "Diego Rodriguez-Losada, Luis Martinez de Bartolome",
+    "display_name": "Conan",
+    "github_url": "https://github.com/conan-io/conan",
+    "url": "https://conan.io/",
+    "logo": "conan.png",
+    "related": [
+      "package-manager",
+      "cpp",
+      "c",
+      "cplusplus",
+      "multi-platform",
+      "cmake"
+    ],
+    "aliases": [
+      "conanio"
+    ],
+    "topic": "conan",
+    "released": "December 1, 2015",
+    "short_description": "The open-source C/C++ package manager.",
+    "description": "Conan, the C / C++ Package Manager for Developers. The open source, decentralized and multi-platform package manager to create and share all your native binaries."
   },
   {
     "created_by": "Sascha Konietzke and Paolo Negri",
@@ -1274,6 +1310,7 @@
   {
     "created_by": "GitHub",
     "display_name": "GitHub API",
+    "logo": "github-api.png",
     "related": [
       "github",
       "github-client",
@@ -1284,7 +1321,7 @@
     ],
     "short_description": "The GitHub API allows you to build applications that integrate with GitHub.",
     "topic": "github-api",
-    "description": "The GitHub API provides endpoints for users to consume GitHub data as well as make changes on a user's behalf. The latest version is v4, the GraphQL API. The GitHub GraphQL API v4 represents an architectural and conceptual shift from the GitHub REST API v3 and allows for users to craft queries of the exact data they need."
+    "description": "The GitHub API provides endpoints for users to consume GitHub data as well as make changes on a user’s behalf. The latest version is v4, the GraphQL API. The GitHub GraphQL API v4 represents an architectural and conceptual shift from the GitHub REST API v3 and allows for users to craft queries of the exact data they need."
   },
   {
     "display_name": "Global Game Jam",
@@ -1627,7 +1664,7 @@
     "topic": "javascript",
     "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
     "wikipedia_url": "https://en.wikipedia.org/wiki/JavaScript",
-    "description": "JavaScript is used to give webpages a more interactive feel. Its event driven nature allows for such features as dropdown menus or video games. JavaScript is executed via the client, rather than server. This allows the browser to respond more quickly to a user’s input."
+    "description": "JavaScript (JS) is a popular programming language which can be run in both backend and frontend contexts. Node.js is a programming language running on the V8 JavaScript execution engine. JS also brings life to frontend webpages and webapps, allowing content to be intelligent and highly interactive."
   },
   {
     "aliases": [
@@ -1830,6 +1867,18 @@
     "url": "https://www.latex-project.org/",
     "wikipedia_url": "https://en.wikipedia.org/wiki/LaTeX",
     "description": "LaTeX is a typesetting system used to create technical and scientific documents. It is an alternative to word processing, with an emphasis on content over appearance."
+  },
+  {
+    "created_by": "Alexis Sellier",
+    "display_name": "Less",
+    "github_url": "https://github.com/less/less.js",
+    "logo": "less.png",
+    "released": 2009,
+    "short_description": "Less is the dynamic stylesheet language.",
+    "topic": "less",
+    "url": "http://lesscss.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Less_(stylesheet_language)",
+    "description": "Less is a dynamic preprocessor style sheet language that can be compiled into Cascading Style Sheets (CSS) and run on the client side or server side."
   },
   {
     "aliases": [
@@ -2221,6 +2270,7 @@
     "created_by": "Monero",
     "display_name": "Monero",
     "github_url": "https://github.com/monero-project",
+    "logo": "monero.png",
     "released": "April 18, 2014",
     "short_description": "Monero is a private, fungible, open source, decentralized cryptocurrency.",
     "topic": "monero",
@@ -2454,6 +2504,18 @@
     "url": "https://developer.apple.com/documentation/objectivec",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Objective-C",
     "description": "Objective-C builds on the foundations of ANSI C. Compared to other object-oriented languages based on C, Objective-C is very dynamic. Dynamism enables the construction of sophisticated development tools. Since Objective-C incorporates C, one gets all the benefits of C when working within Objective-C."
+  },
+  {
+    "created_by": "Xavier Leroy",
+    "display_name": "OCaml",
+    "github_url": "https://github.com/ocaml/ocaml",
+    "logo": "ocaml.png",
+    "released": 1996,
+    "short_description": "OCaml is an implementation of the ML language, based on the Caml Light.",
+    "topic": "ocaml",
+    "url": "http://ocaml.org",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/OCaml",
+    "description": "OCaml is a general purpose industrial-strength programming language with an emphasis on expressiveness and safety, It is supporting functional, imperative and object-oriented styles."
   },
   {
     "aliases": [
@@ -3409,6 +3471,17 @@
     "description": "Tailwind is an utility-first CSS framework for rapid UI development written in PostCSS and configured through JavaScript, making it highly customizable by design. Tailwind doesn’t have a default theme nor built-in UI components. This means it has no opinion about how your site should look and doesn’t impose design decisions that can be difficult to undo."
   },
   {
+    "created_by": "ruki",
+    "display_name": "tbox",
+    "github_url": "https://github.com/tboox/tbox",
+    "logo": "tbox.png",
+    "released": "August 15, 2010",
+    "short_description": "TBOX is a glib-like cross-platform C library that is simple to use yet powerful in nature.",
+    "topic": "tbox",
+    "url": "http://tboox.org/",
+    "description": "TBOX is a glib-like cross-platform C library that is simple yet powerful. It focuses on making C development easier and provides many modules, so that any developer can quickly pick it up and enjoy the productivity boost when developing in the C language."
+  },
+  {
     "aliases": [
       "telegram-client",
       "telegram-bot",
@@ -3516,6 +3589,17 @@
     "description": "The Lounge is a modern web IRC (Internet Relay Chat) client designed to be self-hosted. It is cross-platform, runs in the browser, and keeps IRC connections open when clients are closed. It is built with JavaScript and Node.js."
   },
   {
+    "topic": "threejs",
+    "github_url": "https://github.com/mrdoob/three.js",
+    "created_by": "Ricardo Cabello",
+    "released": "April 24, 2010",
+    "display_name": "Three.js",
+    "short_description": "Three.js allows the creation of Graphical Processing Unit (GPU)-accelerated 3D animations using JavaScript.",
+    "url": "https://threejs.org",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Three.js",
+    "description": "Three.js is a cross-browser JavaScript library and Application Programming Interface (API) used to create and display animated 3D computer graphics in a web browser."
+  },
+  {
     "display_name": "TIC-80",
     "aliases": [
       "tic80"
@@ -3540,11 +3624,11 @@
     "logo": "twitter.png",
     "created_by": "Jack Dorsey, Noah Glass, Biz Stone, Evan Williams",
     "released": "March 21, 2006",
-    "short_description": "Twitter is an online news and social networking service where users post and interact with messages, known as \"tweets\".",
+    "short_description": "Twitter is an online news and social networking service where users post and interact with messages, known as “Tweets”.",
     "topic": "twitter",
     "url": "https://www.twitter.com",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Twitter",
-    "description": "Twitter is an online news and social networking service where users post and interact with messages, known as \"tweets.\" These messages were originally restricted to 140 characters, but in November 2017, the limit was doubled to 280 characters for all languages except Japanese, Korean, and Chinese."
+    "description": "Twitter is an online news and social networking service where users post and interact with messages, known as “Tweets.” These messages were originally restricted to 140 characters, but in November 2017, the limit was doubled to 280 characters for all languages except Japanese, Korean, and Chinese."
   },
   {
     "aliases": [
@@ -3695,6 +3779,27 @@
     "topic": "virtual-reality",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Virtual_reality",
     "description": "Virtual reality is a fully immersive and interactive computer-simulated environment. Currently, the most popular display option is through a VR headset."
+  },
+  {
+    "aliases": [
+      "visual-studio",
+      "vscode"
+    ],
+    "created_by": "Microsoft Corporation",
+    "display_name": "Visual Studio Code",
+    "github_url": "https://github.com/Microsoft/vscode",
+    "logo": "visual-studio-code.png",
+    "related": [
+      "vscode-theme",
+      "vscode-extension",
+      "text-editor"
+    ],
+    "released": "April 29, 2015",
+    "short_description": "A cross-platform source code editor written in JavaScript and TypeScript.",
+    "topic": "visual-studio-code",
+    "url": "https://code.visualstudio.com/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Visual_Studio_Code",
+    "description": "Visual Studio Code, commonly known as VS code, is a highly customizable open source text editor, developed, and maintained by Microsoft.\nVisual Studio Code is built using web technologies such as JavaScript, TypeScript, and CSS. There are also thousands of community created themes and packages available."
   },
   {
     "aliases": [
@@ -3919,6 +4024,17 @@
     "url": "https://developer.apple.com/xcode",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Xcode",
     "description": "Xcode is an integrated development environment (IDE) for macOS containing a suite of software development tools developed by Apple for developing software for macOS, iOS, watchOS, and tvOS. Xcode pulls all the tools needed to produce an application (particularly a text editor, a compiler, and a build system) into one software package rather than leaving them as a set of individual tools connected by scripts."
+  },
+  {
+    "created_by": "ruki",
+    "display_name": "xmake",
+    "github_url": "https://github.com/tboox/xmake",
+    "logo": "xmake.png",
+    "released": "June 8, 2015",
+    "short_description": "xmake is a cross-platform build utility based on lua.",
+    "topic": "xmake",
+    "url": "https://xmake.io/",
+    "description": "xmake is a cross-platform build utility based on lua. It focuses on making development and building easier and provides many features, so that any developer can quickly pick it up and enjoy the productivity boost when developing and building project."
   },
   {
     "created_by": "World Wide Web Consortium",
