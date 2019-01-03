@@ -423,7 +423,7 @@
     "released": "August 19, 2011",
     "short_description": "Bootstrap is an HTML, CSS, and JavaScript framework.",
     "topic": "bootstrap",
-    "url": "http://getbootstrap.com/",
+    "url": "https://getbootstrap.com/",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)",
     "description": "Bootstrap is a popular front-end framework that streamlines website design. It allows for the creation of easy and responsive web layouts."
   },
@@ -4083,5 +4083,20 @@
     "topic": "zeit",
     "url": "https://zeit.co",
     "description": "ZEIT's mission is to make cloud computing as easy and accessible as mobile computing. It builds products for developers and designers, and those who aspire to become one."
+  },
+  {
+    "aliases": [
+      "zeplin-extension",
+      "zem"
+    ],
+    "created_by": "Zeplin",
+    "display_name": "Zeplin",
+    "github_url": "https://github.com/zeplin",
+    "logo": "zeplin.png",
+    "released": "June 2014",
+    "short_description": "Zeplin is a connected space for product teams where they can share designs, generate specs, assets and code snippets.",
+    "topic": "zeplin",
+    "url": "https://zeplin.io",
+    "description": "Zeplin is a connected space for product teams. It helps you collect and organize your team’s projects and resources like components, colors, and text styles. Everyone in the team can access up to date design resources and discussions. They also get notified of changes easily."
   }
 ]
