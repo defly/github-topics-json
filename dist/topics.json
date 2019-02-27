@@ -1266,6 +1266,36 @@
   },
   {
     "aliases": [
+      "first-robotics",
+      "firstrobotics"
+    ],
+    "created_by": "FIRST",
+    "display_name": "FIRST",
+    "github_url": "https://github.com/first",
+    "logo": "first.png",
+    "short_description": "For Inspiration and Recognition of Science and Technology.",
+    "topic": "first",
+    "url": "https://www.firstinspires.org",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/FIRST",
+    "description": "For Inspiration and Recognition of Science and Technology (FIRST) is an international youth organization that operates the FIRST Robotics Competition, FIRST LEGO League, FIRST Lego League Jr., and FIRST Tech Challenge competitions. Founded by Dean Kamen and Woodie Flowers in 1989, its expressed goal is to develop ways to inspire students in engineering and technology fields. Its philosophy is expressed by the organization as coopertition and gracious professionalism."
+  },
+  {
+    "aliases": [
+      "frc",
+      "first-frc"
+    ],
+    "created_by": "FIRST",
+    "display_name": "FIRST Robotics Competition",
+    "github_url": "https://github.com/first",
+    "logo": "first-robotics-competition.png",
+    "short_description": "FIRST Robotics Competition is a robotics competition for 9-12th graders where teams compete head-to-head in annual challenges.",
+    "topic": "first-robotics-competition",
+    "url": "https://www.firstinspires.org/robotics/frc",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/FIRST_Robotics_Competition",
+    "description": "FIRST Robotics Competition (FRC) is a robotics competition for students in grades 9-12 to compete head to head, using a sports model. Teams are responsible for designing, building, and programming their robots in a six-week build period to compete in an alliance format against other teams."
+  },
+  {
+    "aliases": [
       "ftc",
       "first-ftc",
       "ftc-robot-controller",
@@ -1400,6 +1430,25 @@
     "logo": "game-off.png",
     "url": "https://gameoff.github.com/",
     "description": "Game Off is a month-long game jam celebrating open source. Each November, game developers are challenged to create a game based on a theme and share it (and the source) with the world."
+  },
+  {
+    "aliases": [
+      "gml",
+      "gamemaker-language",
+      "game-maker-language",
+      "gamemaker-studio",
+      "gamemaker-studio-2",
+      "gms2"
+    ],
+    "created_by": "Mark Overmars",
+    "display_name": "GameMaker Studio",
+    "logo": "gamemaker.png",
+    "released": "November 5, 1999",
+    "short_description": "GameMaker Studio is an accessible cross-platform 2D game engine.",
+    "topic": "gamemaker",
+    "url": "https://www.yoyogames.com/gamemaker",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/GameMaker_Studio",
+    "description": "GameMaker Studio is a cross-platform game engine developed by YoYo Games. It is primarily used to make 2D games via a drag-and-drop visual programming language or a scripting language known as Game Maker Language."
   },
   {
     "created_by": "Linus Torvalds",
@@ -2629,6 +2678,21 @@
     "description": "Npm is a package manager for JavaScript, included with Node.js. As a package manager, npm makes it easy for developers to share and reuse code."
   },
   {
+    "aliases": [
+      "nuget-package"
+    ],
+    "created_by": "Microsoft, .Net Foundation",
+    "display_name": "NuGet",
+    "github_url": "https://github.com/NuGet",
+    "logo": "nuget.png",
+    "released": "October 2010",
+    "short_description": "NuGet is an open source package manager designed for the Microsoft development platform.",
+    "topic": "nuget",
+    "url": "https://www.nuget.org/",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/NuGet",
+    "description": "NuGet is a free and open source package manager designed for the Microsoft development platform. It is formerly known as NuPack."
+  },
+  {
     "created_by": "Tom Love and Brad Cox",
     "display_name": "Objective-C",
     "logo": "objective-c.png",
@@ -3316,7 +3380,7 @@
     "released": "2010",
     "short_description": "Rust is a systems programming language created by Mozilla.",
     "topic": "rust",
-    "url": "https://www.rust-lang.org/en-US/",
+    "url": "https://www.rust-lang.org/",
     "wikipedia_url": "https://en.wikipedia.org/wiki/Rust_(programming_language)",
     "description": "Rust is a systems programming language created by Mozilla. It is similar to C++, but is designed for improved memory safety without sacrificing performance."
   },
@@ -3709,6 +3773,7 @@
     "display_name": "Terminal",
     "short_description": "The terminal is an interface in which you can type and execute text-based commands.",
     "topic": "terminal",
+    "logo": "terminal.png",
     "related": [
       "unix-shell",
       "bash-shell"
